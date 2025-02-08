@@ -1,0 +1,909 @@
+id_player,player_name,nationality,field_position,position,weight(kg),height(cm),age,id_team,player_image
+250016833,Harry Kane,England,Forward,STRIKER,65.0,188.0,31,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250016833.jpg
+250105927,Viktor Gyökeres,Sweden,Forward,,,,26,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105927.jpg
+250121533,Vinícius Júnior,Brazil,Forward,UNKNOWN,,,24,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121533.jpg
+250121294,Tijjani Reijnders,Netherlands,Midfielder,CENTRAL_MIDFIELDER,,,26,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121294.jpg
+250160436,Maghnes Akliouche,France,Midfielder,UNKNOWN,,,22,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250160436.jpg
+250028211,Antonio Rüdiger,Germany,Defender,CENTRE_BACK,85.0,190.0,31,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250028211.jpg
+250123677,Malik Tillman,USA,Midfielder,UNKNOWN,,,22,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123677.jpg
+250055663,Thilo Kehrer,Germany,Defender,CENTRAL_MIDFIELDER,72.0,186.0,28,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055663.jpg
+250064188,Hans Vanaken,Belgium,Midfielder,ATTACKING_MIDFIELDER,77.0,194.0,32,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064188.jpg
+250088061,Achraf Hakimi,Morocco,Defender,WINGER,68.0,179.0,26,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088061.jpg
+250189506,Ryan Flamingo,Netherlands,Defender,,,,21,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189506.jpg
+250106969,Miguel Gutiérrez,Spain,Defender,UNKNOWN,,,23,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106969.jpg
+50327420,Virgil van Dijk,Netherlands,Defender,CENTRE_BACK,92.0,193.0,33,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/50327420.jpg
+250070417,Joshua Kimmich,Germany,Midfielder,CENTRE_BACK,70.0,176.0,29,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250070417.jpg
+250096309,Jules Koundé,France,Defender,CENTRE_BACK,,,25,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250096309.jpg
+250129965,Marc Casado,Spain,Midfielder,UNKNOWN,,,21,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129965.jpg
+250004363,Stefan Ristovski,North Macedonia,Defender,FULL_BACK,72.0,180.0,32,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250004363.jpg
+250139207,Rico Lewis,England,Defender,UNKNOWN,,,19,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139207.jpg
+250134304,Gabriel Martinelli,Brazil,Forward,WINGER,,,23,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134304.jpg
+250127492,Kamil Piątkowski,Poland,Defender,UNKNOWN,,,24,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127492.jpg
+250189363,Youngwoo Seol,Korea Republic,Defender,UNKNOWN,,,25,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189363.jpg
+250052554,Josip Mišić,Croatia,Midfielder,CENTRAL_MIDFIELDER,,,30,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250052554.jpg
+250134856,Nico Schlotterbeck,Germany,Defender,UNKNOWN,,,24,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134856.jpg
+250092668,Dávid Hancko,Slovakia,Defender,CENTRE_BACK,,,26,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250092668.jpg
+250158901,Filip Panák,Czechia,Defender,,,,29,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250158901.jpg
+250136465,Nuno Mendes,Portugal,Defender,FULL_BACK,,,22,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250136465.jpg
+250014042,Callum McGregor,Scotland,Midfielder,WINGER,73.0,180.0,31,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250014042.jpg
+250188474,Éderson,Brazil,Midfielder,UNKNOWN,,,25,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188474.jpg
+250134536,Inbeom Hwang,Korea Republic,Midfielder,UNKNOWN,,,28,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134536.jpg
+250112217,Angelo Stiller,Germany,Midfielder,,,,23,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112217.jpg
+250101557,Morten Hjulmand,Denmark,Midfielder,CENTRAL_MIDFIELDER,,,25,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101557.jpg
+250187672,Pedro Henrique,Brazil,Defender,UNKNOWN,,,22,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187672.jpg
+250065419,Stefan Posch,Austria,Defender,CENTRE_BACK,,,27,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250065419.jpg
+250025791,Benjamin André,France,Midfielder,CENTRAL_MIDFIELDER,,,34,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250025791.jpg
+250014709,Marten de Roon,Netherlands,Midfielder,CENTRAL_MIDFIELDER,76.0,185.0,33,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250014709.jpg
+250128120,Alphonso Davies,Canada,Midfielder,FULL_BACK,,,24,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128120.jpg
+250163454,Piero Hincapie,Ecuador,Defender,UNKNOWN,,,22,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163454.jpg
+250123695,Maxim De Cuyper,Belgium,Midfielder,FULL_BACK,,,23,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123695.jpg
+250116734,Ladislav Krejčí,Czechia,Defender,WINGER,,,25,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250116734.jpg
+250113001,Ryan Gravenberch,Netherlands,Midfielder,CENTRAL_MIDFIELDER,,,22,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113001.jpg
+250102868,Jusuf Gazibegović,Bosnia and Herzegovina,Defender,UNKNOWN,,,24,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250102868.jpg
+250122983,Pierre Kalulu,France,Defender,FULL_BACK,,,24,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250122983.jpg
+250153945,Alvaro Carreras,Spain,Defender,UNKNOWN,,,21,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153945.jpg
+250079545,Dayot Upamecano,France,Defender,CENTRE_BACK,83.0,185.0,26,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079545.jpg
+250064444,Mykola Matviyenko,Ukraine,Defender,CENTRE_BACK,67.0,181.0,28,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064444.jpg
+250055660,Jonathan Tah,Germany,Defender,CENTRE_BACK,92.0,192.0,28,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055660.jpg
+250077679,Timi Elšnik,Slovenia,Midfielder,UNKNOWN,,,26,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250077679.jpg
+250064064,Marquinhos,Brazil,Defender,CENTRE_BACK,75.0,183.0,30,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064064.jpg
+250132401,Kenny Lala,France,Defender,UNKNOWN,,,33,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132401.jpg
+250121149,Emanuel Aiwu,Austria,Defender,UNKNOWN,,,23,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121149.jpg
+250068808,Olivier Boscagli,France,Defender,CENTRE_BACK,68.0,181.0,26,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250068808.jpg
+250051754,Willi Orbán,Hungary,Defender,CENTRE_BACK,,,32,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250051754.jpg
+250053044,Brandon Mechele,Belgium,Defender,CENTRE_BACK,81.0,188.0,31,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250053044.jpg
+250087118,Valeriy Bondar,Ukraine,Defender,CENTRE_BACK,,,25,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250087118.jpg
+250188247,Alexsandro,Brazil,Defender,UNKNOWN,,,25,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188247.jpg
+250174126,Willian Pacho,Ecuador,Defender,,,,23,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174126.jpg
+250131901,Gabriel,Brazil,Defender,CENTRE_BACK,,,26,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250131901.jpg
+250130786,Martin Vitík,Czechia,Defender,CENTRE_BACK,,,21,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250130786.jpg
+250127439,William Saliba,France,Defender,CENTRE_BACK,,,23,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127439.jpg
+250076126,Theo Hernández,France,Defender,FULL_BACK,70.0,184.0,27,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250076126.jpg
+250131541,Cesar Blackman,Panama,Defender,,,,26,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250131541.jpg
+250000679,Kévin Théophile-Catherine,France,Defender,FULL_BACK,85.0,183.0,35,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250000679.jpg
+250158476,Nasser Djiga,Burkina Faso,Defender,UNKNOWN,,,21,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250158476.jpg
+250135672,Soumaula Coulibaly,France,Defender,UNKNOWN,,,21,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135672.jpg
+250017040,Nicolás Otamendi,Argentina,Defender,UNKNOWN,78.0,183.0,36,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250017040.jpg
+250176201,Joel Ordoñez,Ecuador,Defender,UNKNOWN,,,20,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176201.jpg
+250061721,Kenan Bajrić,Slovenia,Defender,CENTRE_BACK,,,29,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250061721.jpg
+250121218,Jhon Lucumi,Colombia,Defender,CENTRE_BACK,,,26,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121218.jpg
+250016616,Uroš Spajić,Serbia,Defender,CENTRE_BACK,,,31,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250016616.jpg
+250171278,David Raya,Spain,Goalkeeper,UNKNOWN,,,29,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171278.jpg
+102420,Péter Gulácsi,Hungary,Goalkeeper,GOALKEEPER,83.0,190.0,34,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/102420.jpg
+250006714,Marco Bizot,Netherlands,Goalkeeper,GOALKEEPER,85.0,194.0,33,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250006714.jpg
+250063980,Timon Wellenreuther,Germany,Goalkeeper,UNKNOWN,,186.0,28,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250063980.jpg
+98078,Simon Mignolet,Belgium,Goalkeeper,GOALKEEPER,87.0,193.0,36,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/98078.jpg
+250121017,Dmytro Riznyk,Ukraine,Goalkeeper,GOALKEEPER,,,25,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121017.jpg
+250087102,Alexander Nübel,Germany,Goalkeeper,GOALKEEPER,85.0,193.0,28,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250087102.jpg
+250105818,Peter Vindahl,Denmark,Goalkeeper,UNKNOWN,,,26,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105818.jpg
+250012069,Jan Oblak,Slovenia,Goalkeeper,GOALKEEPER,87.0,186.0,31,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250012069.jpg
+250124006,Franco Israel,Uruguay,Goalkeeper,UNKNOWN,,,24,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124006.jpg
+97746,Yann Sommer,Switzerland,Goalkeeper,GOALKEEPER,79.0,183.0,35,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/97746.jpg
+250135068,Lucas Chevalier,France,Goalkeeper,GOALKEEPER,,,23,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135068.jpg
+250123304,Kjell Scherpen,Netherlands,Goalkeeper,GOALKEEPER,,,24,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123304.jpg
+250105612,Marco Carnesecchi,Italy,Goalkeeper,UNKNOWN,,,24,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105612.jpg
+250157134,Dominik Takáč,Slovakia,Goalkeeper,,,,25,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250157134.jpg
+74954,Kasper Schmeichel,Denmark,Goalkeeper,GOALKEEPER,76.0,185.0,38,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/74954.jpg
+250040573,Łukasz Skorupski,Poland,Goalkeeper,UNKNOWN,,187.0,33,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250040573.jpg
+250113444,Anatoliy Trubin,Ukraine,Goalkeeper,GOALKEEPER,,,23,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113444.jpg
+250085475,Paulo Gazzaniga,Argentina,Goalkeeper,UNKNOWN,,,32,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250085475.jpg
+250087938,Kai Havertz,Germany,Midfielder,STRIKER,,,25,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250087938.jpg
+250172672,Alexis Mac Allister,Argentina,Midfielder,UNKNOWN,,,25,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172672.jpg
+250090766,Maximilian Mittelstädt,Germany,Defender,FULL_BACK,,,27,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250090766.jpg
+250112978,Dmytro Kryskiv,Ukraine,Midfielder,,,,24,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112978.jpg
+250188511,Anthony Rouault,France,Defender,UNKNOWN,,,23,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188511.jpg
+250091013,Ibrahima Konaté,France,Defender,CENTRE_BACK,,,25,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091013.jpg
+250040471,Iñigo Martínez,Spain,Defender,CENTRE_BACK,75.0,181.0,33,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250040471.jpg
+250023097,Remo Freuler,Switzerland,Midfielder,CENTRAL_MIDFIELDER,77.0,181.0,32,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250023097.jpg
+250067630,Fikayo Tomori,England,Defender,CENTRE_BACK,,,26,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250067630.jpg
+250079003,Kaan Kairinen,Finland,Midfielder,UNKNOWN,,,25,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079003.jpg
+250130406,Johan Bakayoko,Belgium,Forward,UNKNOWN,,,21,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250130406.jpg
+250096954,Loïs Openda,Belgium,Forward,STRIKER,,,24,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250096954.jpg
+250119181,Georgiy Sudakov,Ukraine,Midfielder,ATTACKING_MIDFIELDER,,,22,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250119181.jpg
+104733,Guram Kashia,Georgia,Defender,CENTRE_BACK,78.0,185.0,37,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/104733.jpg
+250112122,Francisco Trincão,Portugal,Forward,STRIKER,,,24,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112122.jpg
+250118964,Enzo Millot,France,Midfielder,,,,22,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118964.jpg
+250132399,Youssouf Fofana,France,Midfielder,UNKNOWN,,,25,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132399.jpg
+250169706,Daizen Maeda,Japan,Forward,UNKNOWN,,,27,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169706.jpg
+250118504,Edon Zhegrova,Kosovo,Midfielder,WINGER,,,25,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118504.jpg
+250181680,Alistair Johnston,Canada,Defender,UNKNOWN,,,26,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250181680.jpg
+250098471,Marko Tolić,Croatia,Midfielder,ATTACKING_MIDFIELDER,,,28,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250098471.jpg
+250139445,Florian Wirtz,Germany,Midfielder,WINGER,,,21,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139445.jpg
+250042422,Alejandro Grimaldo,Spain,Defender,FULL_BACK,64.0,170.0,29,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042422.jpg
+250005343,Luuk De Jong,Netherlands,Forward,STRIKER,80.0,188.0,34,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250005343.jpg
+250137390,Zeno Debast,Belgium,Defender,,,,21,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250137390.jpg
+250064232,Davide Zappacosta,Italy,Defender,FULL_BACK,70.0,182.0,32,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064232.jpg
+250169730,Vanderson,Brazil,Defender,UNKNOWN,,,23,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169730.jpg
+250153349,Oscar Gloukh,Israel,Midfielder,CENTRAL_MIDFIELDER,,,20,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153349.jpg
+250101727,Quinten Timber,Netherlands,Midfielder,CENTRAL_MIDFIELDER,,,23,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101727.jpg
+250013022,Tigran Barseghyan,Armenia,Midfielder,STRIKER,,,31,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250013022.jpg
+250132407,Ludovic Ajorque,France,Forward,UNKNOWN,,,30,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132407.jpg
+250097909,Mehdi Taremi,Iran,Forward,STRIKER,,,32,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250097909.jpg
+250130234,William Bøving,Denmark,Midfielder,WINGER,,,21,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250130234.jpg
+250125538,Dan Ndoye,Switzerland,Forward,WINGER,,,24,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250125538.jpg
+250162325,Minjae Kim,Korea Republic,Defender,UNKNOWN,,,27,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250162325.jpg
+250153849,Warren Zaïre-Emery,France,Midfielder,DEFENSIVE_MIDFIELDER,,,18,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153849.jpg
+250108215,David Strelec,Slovakia,Forward,STRIKER,,,23,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250108215.jpg
+250128377,Jude Bellingham,England,Midfielder,,,,21,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128377.jpg
+250052469,Mohamed Salah,Egypt,Forward,WINGER,72.0,175.0,32,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250052469.jpg
+250046522,Julian Brandt,Germany,Midfielder,WINGER,82.0,176.0,28,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250046522.jpg
+250161248,Sam Beukema,Netherlands,Defender,UNKNOWN,,,25,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250161248.jpg
+250085751,Sandro Lauper,Switzerland,Midfielder,CENTRE_BACK,,,28,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250085751.jpg
+250177886,Igor Paixão,Brazil,Forward,UNKNOWN,,,24,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177886.jpg
+250085369,Manuel Akanji,Switzerland,Defender,UNKNOWN,,187.0,29,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250085369.jpg
+250176450,Lamine Yamal,Spain,Forward,UNKNOWN,,,17,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176450.jpg
+250196709,Atakan Karazor,Türkiye,Midfielder,UNKNOWN,,,28,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196709.jpg
+250096698,Christian Pulišić,USA,Forward,UNKNOWN,69.0,172.0,26,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250096698.jpg
+250056159,Qazim Laçi,Albania,Midfielder,CENTRAL_MIDFIELDER,80.0,176.0,28,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250056159.jpg
+250110734,Filip Ugrinic,Switzerland,Midfielder,,,,25,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250110734.jpg
+250102866,Amadou Haidara,Mali,Midfielder,CENTRAL_MIDFIELDER,,,26,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250102866.jpg
+250169764,Matteo Dams,Belgium,Defender,UNKNOWN,,,20,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169764.jpg
+250113211,Orkun Kökçü,Türkiye,Midfielder,ATTACKING_MIDFIELDER,,,23,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113211.jpg
+250168990,Arnau Martínez,Spain,Defender,,,,21,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250168990.jpg
+250134138,Bradley Barcola,France,Forward,UNKNOWN,,,22,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134138.jpg
+250130414,Arne Engels,Belgium,Midfielder,WINGER,,,21,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250130414.jpg
+250103758,Erling Haaland,Norway,Forward,UNKNOWN,,,24,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250103758.jpg
+250064252,Rade Krunić,Bosnia and Herzegovina,Midfielder,CENTRAL_MIDFIELDER,74.0,184.0,31,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064252.jpg
+250042780,Mike Maignan,France,Goalkeeper,GOALKEEPER,80.0,187.0,29,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042780.jpg
+250124460,Christos Tzolis,Greece,Forward,WINGER,,,22,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124460.jpg
+250076357,Trent Alexander-Arnold,England,Defender,UNKNOWN,,,26,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250076357.jpg
+250002096,Robert Lewandowski,Poland,Forward,STRIKER,78.0,184.0,36,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250002096.jpg
+250089228,Rafael Leão,Portugal,Forward,STRIKER,,,25,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089228.jpg
+250099180,Dušan Vlahović,Serbia,Forward,STRIKER,,,24,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250099180.jpg
+250028715,Berat Djimsiti,Albania,Defender,FULL_BACK,83.0,190.0,31,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250028715.jpg
+250101284,Federico Valverde,Uruguay,Midfielder,UNKNOWN,,,26,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101284.jpg
+250106709,Bafodé Diakité,France,Defender,UNKNOWN,,,23,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106709.jpg
+97923,Manuel Neuer,Germany,Goalkeeper,GOALKEEPER,92.0,193.0,38,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/97923.jpg
+250112880,Raphinha,Brazil,Forward,WINGER,,,27,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112880.jpg
+250019498,Antoine Griezmann,France,Forward,STRIKER,67.0,176.0,33,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250019498.jpg
+250099671,Guus Til,Netherlands,Midfielder,CENTRAL_MIDFIELDER,,,26,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250099671.jpg
+250041770,Serge Gnabry,Germany,Forward,WINGER,73.0,173.0,29,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250041770.jpg
+250091290,Mahdi Camara,France,Midfielder,UNKNOWN,,,26,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091290.jpg
+250064446,Oleksandr Zubkov,Ukraine,Midfielder,CENTRAL_MIDFIELDER,70.0,181.0,28,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064446.jpg
+250157930,Joel Monteiro,Switzerland,Forward,UNKNOWN,,,25,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250157930.jpg
+250167111,Mika Biereth,Denmark,Forward,UNKNOWN,,,21,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250167111.jpg
+250146674,Kerem Aktürkoğlu,Türkiye,Forward,UNKNOWN,,,26,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250146674.jpg
+250200228,Malick Yalcouye,Mali,Midfielder,,,,18,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250200228.jpg
+250121132,Danylo Ihnatenko,Ukraine,Midfielder,CENTRAL_MIDFIELDER,,,27,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121132.jpg
+250140940,Martin Baturina,Croatia,Midfielder,ATTACKING_MIDFIELDER,,,21,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250140940.jpg
+250163623,Andrea Cambiaso,Italy,Defender,UNKNOWN,,,24,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163623.jpg
+250187759,Eguinaldo,Brazil,Forward,UNKNOWN,,,20,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187759.jpg
+250061027,Fredrik Aursnes,Norway,Midfielder,DEFENSIVE_MIDFIELDER,,,28,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250061027.jpg
+250101534,Phil Foden,England,Midfielder,UNKNOWN,,,24,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101534.jpg
+250099258,Ademola Lookman,Nigeria,Forward,WINGER,,,27,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250099258.jpg
+250196712,Silas,DR Congo,Forward,,,,26,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196712.jpg
+250127111,Benjamin Šeško,Slovenia,Forward,UNKNOWN,,,21,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127111.jpg
+250171301,Karim Konaté,Ivory Coast,Forward,UNKNOWN,,,20,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171301.jpg
+250076574,Kylian Mbappé,France,Forward,STRIKER,67.0,178.0,25,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250076574.jpg
+250174822,Savinho,Brazil,Midfielder,,,,20,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174822.jpg
+250086316,Thomas Partey,Ghana,Midfielder,DEFENSIVE_MIDFIELDER,73.0,185.0,31,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250086316.jpg
+250171055,Kenan Yıldız,Türkiye,Forward,UNKNOWN,,,19,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171055.jpg
+250176453,Pau Cubarsí,Spain,Defender,UNKNOWN,,,17,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176453.jpg
+250113276,Jeremie Frimpong,Netherlands,Defender,FULL_BACK,,,23,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113276.jpg
+250163786,Joaquin Seys,Belgium,Defender,UNKNOWN,,,19,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163786.jpg
+250058258,Benjamin Henrichs,Germany,Defender,UNKNOWN,77.0,183.0,27,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058258.jpg
+250194673,Deniz Undav,Germany,Forward,,,,28,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250194673.jpg
+250051291,Janis Blaswich,Germany,Goalkeeper,UNKNOWN,,193.0,33,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250051291.jpg
+250143693,Pedri,Spain,Midfielder,UNKNOWN,,,21,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250143693.jpg
+250128255,Emerson,Brazil,Defender,UNKNOWN,,,25,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128255.jpg
+250106148,Nicolas Kühn,Germany,Midfielder,,,,24,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106148.jpg
+250118391,Edmond Tapsoba,Burkina Faso,Defender,CENTRE_BACK,,,25,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118391.jpg
+250004721,Granit Xhaka,Switzerland,Midfielder,CENTRAL_MIDFIELDER,82.0,185.0,32,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250004721.jpg
+250129446,Liam Scales,Republic of Ireland,Defender,UNKNOWN,,,26,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129446.jpg
+250107477,Jeff Chabot,Germany,Defender,,,,26,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250107477.jpg
+250112690,Denzel Dumfries,Netherlands,Defender,FULL_BACK,,,28,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112690.jpg
+250017824,Emre Can,Germany,Defender,DEFENSIVE_MIDFIELDER,82.0,184.0,30,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250017824.jpg
+250112803,Ferland Mendy,France,Defender,FULL_BACK,,,29,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112803.jpg
+250081207,Donny van de Beek,Netherlands,Midfielder,CENTRAL_MIDFIELDER,,180.0,27,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081207.jpg
+250104066,Dominik Szoboszlai,Hungary,Midfielder,CENTRAL_MIDFIELDER,,,24,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250104066.jpg
+250112969,Artem Bondarenko,Ukraine,Midfielder,CENTRAL_MIDFIELDER,,,24,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112969.jpg
+250113993,Matěj Ryneš,Czechia,Defender,CENTRAL_MIDFIELDER,,,23,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113993.jpg
+250121965,Éder Militão,Brazil,Defender,FULL_BACK,,,26,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121965.jpg
+250080553,Serhou Guirassy,Rep of Guinea,Forward,STRIKER,,,28,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250080553.jpg
+250169705,Reo Hatate,Japan,Defender,,,,26,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169705.jpg
+250172668,Julián Alvarez,Argentina,Forward,UNKNOWN,,,24,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172668.jpg
+250032786,David López,Spain,Defender,CENTRE_BACK,,185.0,35,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250032786.jpg
+250023009,Leandro Trossard,Belgium,Midfielder,WINGER,61.0,171.0,29,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250023009.jpg
+250027780,Massadio Haïdara,Mali,Defender,UNKNOWN,,,31,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250027780.jpg
+250200308,Auston Trusty,USA,Defender,,,,26,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250200308.jpg
+250112186,Silvère Ganvoula,Congo,Forward,,,,28,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112186.jpg
+250127284,Joško Gvardiol,Croatia,Defender,CENTRE_BACK,,,22,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127284.jpg
+250164991,João Neves,Portugal,Midfielder,UNKNOWN,,,20,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164991.jpg
+250196588,Hugo Magnetti,France,Midfielder,UNKNOWN,,,26,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196588.jpg
+250198240,Lamine Camara,Senegal,Midfielder,,,,20,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198240.jpg
+250104075,Lutsharel Geertruida,Netherlands,Defender,CENTRE_BACK,,,24,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250104075.jpg
+250064274,Breel Embolo,Switzerland,Forward,STRIKER,84.0,185.0,27,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064274.jpg
+250041626,Sead Kolašinac,Bosnia and Herzegovina,Defender,FULL_BACK,82.0,183.0,31,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250041626.jpg
+250081921,Benjamin Pavard,France,Defender,,,,28,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081921.jpg
+250019573,Gernot Trauner,Austria,Defender,CENTRE_BACK,,,32,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250019573.jpg
+103335,Axel Witsel,Belgium,Midfielder,DEFENSIVE_MIDFIELDER,73.0,186.0,35,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/103335.jpg
+250116951,Yann Bisseck,Germany,Defender,UNKNOWN,,,23,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250116951.jpg
+250145803,Matheus Nunes,Portugal,Midfielder,UNKNOWN,,,26,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250145803.jpg
+250132323,Wilfried Singo,Ivory Coast,Defender,,,,23,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132323.jpg
+250043066,Kevin Wimmer,Austria,Defender,CENTRE_BACK,85.0,187.0,31,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250043066.jpg
+250063505,José María Giménez,Uruguay,Defender,CENTRE_BACK,76.0,185.0,29,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250063505.jpg
+250081553,Teun Koopmeiners,Netherlands,Midfielder,CENTRAL_MIDFIELDER,,,26,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081553.jpg
+250083732,Declan Rice,England,Midfielder,,,,25,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250083732.jpg
+250148830,Raúl Torrente,Spain,Defender,,,,23,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250148830.jpg
+250174149,Isak Hien,Sweden,Defender,UNKNOWN,,,25,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174149.jpg
+250126449,Amar Dedić,Bosnia and Herzegovina,Defender,UNKNOWN,,,22,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250126449.jpg
+250117410,Tomás Araújo,Portugal,Defender,CENTRE_BACK,,,22,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117410.jpg
+250196586,Brendan Chardonnet,France,Defender,UNKNOWN,,,29,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196586.jpg
+250124068,Castello Lukeba,France,Defender,UNKNOWN,,,21,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124068.jpg
+250160568,Angelo Preciado,Ecuador,Defender,UNKNOWN,,,26,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250160568.jpg
+250081721,Iñaki Peña,Spain,Goalkeeper,UNKNOWN,,,25,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081721.jpg
+250069832,Gregor Kobel,Switzerland,Goalkeeper,GOALKEEPER,,,26,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250069832.jpg
+1907188,Lukas Hradecky,Finland,Goalkeeper,GOALKEEPER,80.0,190.0,34,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1907188.jpg
+250101144,Walter Benítez,Argentina,Goalkeeper,UNKNOWN,91.0,191.0,31,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101144.jpg
+250066131,Ivan Nevistić,Croatia,Goalkeeper,GOALKEEPER,,,26,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250066131.jpg
+250078922,Gianluigi Donnarumma,Italy,Goalkeeper,GOALKEEPER,90.0,196.0,25,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250078922.jpg
+250102035,Jonathan David,Canada,Forward,ATTACKING_MIDFIELDER,,,24,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250102035.jpg
+250081223,Takumi Minamino,Japan,Midfielder,STRIKER,,174.0,29,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081223.jpg
+250115192,Gabriel Gudmundsson,Sweden,Defender,UNKNOWN,,,25,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250115192.jpg
+250119677,Ramy Bensebaini,Algeria,Defender,CENTRE_BACK,,,29,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250119677.jpg
+250135416,Alejandro Balde,Spain,Defender,UNKNOWN,,,21,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135416.jpg
+250103243,Dimitri Lavalée,Belgium,Defender,CENTRE_BACK,,,27,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250103243.jpg
+250112974,Yukhym Konoplia,Ukraine,Defender,UNKNOWN,,,25,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112974.jpg
+250079677,Denis Zakaria,Switzerland,Midfielder,CENTRAL_MIDFIELDER,76.0,191.0,27,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079677.jpg
+250078012,Vangelis Pavlidis,Greece,Forward,STRIKER,,,25,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250078012.jpg
+250135339,Petar Sučić,Croatia,Midfielder,UNKNOWN,,,21,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135339.jpg
+250076631,Kostas Tsimikas,Greece,Defender,FULL_BACK,77.0,178.0,28,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250076631.jpg
+250138382,Jamie Leweling,Germany,Forward,UNKNOWN,,,23,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138382.jpg
+250200313,Jordan Lotomba,Switzerland,Defender,UNKNOWN,,,26,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250200313.jpg
+250171283,Ardon Jashari,Switzerland,Midfielder,,,,22,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171283.jpg
+250129341,Tochi Chukwuani,Denmark,Midfielder,UNKNOWN,,,21,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129341.jpg
+250142271,Max Johnston,Scotland,Defender,,,,20,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250142271.jpg
+250173126,Ferran Jutglà,Spain,Forward,STRIKER,,,25,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250173126.jpg
+250122213,Mauro Júnior,Brazil,Defender,ATTACKING_MIDFIELDER,,,25,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250122213.jpg
+250064027,Kyriakos Savvidis,Greece,Midfielder,UNKNOWN,,181.0,29,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064027.jpg
+250066886,Ousmane Dembélé,France,Forward,UNKNOWN,67.0,178.0,27,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250066886.jpg
+250024456,Álvaro Morata,Spain,Forward,STRIKER,85.0,189.0,32,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250024456.jpg
+1905153,Ángel Di María,Argentina,Forward,UNKNOWN,75.0,180.0,36,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1905153.jpg
+250086037,Rodrigo De Paul,Argentina,Midfielder,UNKNOWN,,,30,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250086037.jpg
+250096849,Cody Gakpo,Netherlands,Forward,WINGER,,,25,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250096849.jpg
+250065301,Aleix García,Spain,Midfielder,UNKNOWN,,185.0,27,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250065301.jpg
+250078593,Otar Kiteishvili,Georgia,Midfielder,UNKNOWN,65.0,170.0,28,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250078593.jpg
+250139010,Samson Baidoo,Austria,Defender,UNKNOWN,,,20,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139010.jpg
+250092517,Julian Ryerson,Norway,Defender,,,,26,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250092517.jpg
+1909917,Koke,Spain,Midfielder,CENTRAL_MIDFIELDER,74.0,178.0,32,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1909917.jpg
+250129746,Giovanni Fabbian,Italy,Midfielder,UNKNOWN,,,21,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129746.jpg
+250177497,Geovany Quenda,Portugal,Forward,UNKNOWN,,,17,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177497.jpg
+250105717,Veljko Birmančević,Serbia,Midfielder,UNKNOWN,,,26,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105717.jpg
+250106939,Bukayo Saka,England,Forward,WINGER,,,23,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106939.jpg
+250128451,Xavi Simons,Netherlands,Midfielder,UNKNOWN,,,21,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128451.jpg
+250086263,Peter Olayinka,Nigeria,Forward,STRIKER,,188.0,28,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250086263.jpg
+250171184,Michael Olise,France,Midfielder,UNKNOWN,,,22,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171184.jpg
+250172673,Nahuel Molina,Argentina,Defender,UNKNOWN,,,26,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172673.jpg
+250189052,Hugo Bueno,Spain,Defender,UNKNOWN,,,22,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189052.jpg
+250145845,Geny Catamo,Mozambique,Midfielder,UNKNOWN,,,23,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250145845.jpg
+250101444,Vitinha,Portugal,Midfielder,UNKNOWN,,,24,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101444.jpg
+250024370,Piotr Zieliński,Poland,Midfielder,ATTACKING_MIDFIELDER,64.0,177.0,30,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250024370.jpg
+250159544,Antoni Milambo,Netherlands,Midfielder,UNKNOWN,,,19,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250159544.jpg
+250187238,Cherif Ndiaye,Senegal,Forward,UNKNOWN,,,28,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187238.jpg
+250029535,Pascal Gross,Germany,Midfielder,UNKNOWN,,,33,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250029535.jpg
+250024349,Marcel Sabitzer,Austria,Midfielder,ATTACKING_MIDFIELDER,74.0,177.0,30,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250024349.jpg
+250089225,Florentino,Portugal,Midfielder,DEFENSIVE_MIDFIELDER,,,25,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089225.jpg
+250153402,Jamie Gittens,England,Midfielder,UNKNOWN,,,20,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153402.jpg
+250156459,Kyogo Furuhashi,Japan,Midfielder,UNKNOWN,,,29,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250156459.jpg
+250068733,Aïssa Mandi,Algeria,Defender,CENTRE_BACK,,,33,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250068733.jpg
+50327428,Stefan De Vrij,Netherlands,Defender,CENTRE_BACK,,,32,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/50327428.jpg
+250127538,Josha Vagnoman,Germany,Defender,UNKNOWN,,,23,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127538.jpg
+250171067,Jaouen Hadjam,Algeria,Defender,UNKNOWN,,,21,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171067.jpg
+250116904,Weston McKennie,USA,Midfielder,UNKNOWN,,,26,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250116904.jpg
+250161140,Nicolás Capaldo,Argentina,Midfielder,UNKNOWN,,,26,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250161140.jpg
+250056566,Ruben Loftus-Cheek,England,Midfielder,CENTRAL_MIDFIELDER,83.0,192.0,28,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250056566.jpg
+250101201,Michele Di Gregorio,Italy,Goalkeeper,GOALKEEPER,,,27,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101201.jpg
+250091828,Raoul Bellanova,Italy,Defender,FULL_BACK,,,24,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091828.jpg
+250174063,Victor  Olatunji,Nigeria,Forward,UNKNOWN,,,25,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174063.jpg
+250124169,Lewin Blum,Switzerland,Defender,FULL_BACK,,,23,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124169.jpg
+250188223,Carlos Augusto,Brazil,Defender,UNKNOWN,,,25,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188223.jpg
+250187221,Thomas Beelen,Netherlands,Defender,,,,23,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187221.jpg
+250144858,Yangel Herrera,Venezuela,Midfielder,DEFENSIVE_MIDFIELDER,,,26,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250144858.jpg
+250124430,Jamal Musiala,Germany,Midfielder,UNKNOWN,,,21,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124430.jpg
+250172907,Federico Gatti,Italy,Defender,UNKNOWN,,,26,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172907.jpg
+250156457,Hidemasa Morita,Japan,Midfielder,UNKNOWN,,,29,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250156457.jpg
+250132730,Ebrima Colley,Gambia,Forward,WINGER,,,24,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132730.jpg
+250183519,Mateo Retegui,Italy,Forward,UNKNOWN,,,25,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250183519.jpg
+250113103,Conor Gallagher,England,Midfielder,UNKNOWN,,,24,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113103.jpg
+250097638,Andreas Skov Olsen,Denmark,Forward,UNKNOWN,,,24,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250097638.jpg
+250059115,Bernardo Silva,Portugal,Midfielder,ATTACKING_MIDFIELDER,64.0,173.0,30,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250059115.jpg
+250058227,Aleksandr Golovin,Russia,Midfielder,ATTACKING_MIDFIELDER,69.0,180.0,28,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058227.jpg
+250147342,Abdallah Sima,Senegal,Forward,STRIKER,,,23,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250147342.jpg
+250040521,Lucas Vázquez,Spain,Midfielder,STRIKER,70.0,173.0,33,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250040521.jpg
+250193541,Takuya Ogiwara,Japan,Defender,,,,24,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193541.jpg
+250156002,Ben White,England,Defender,UNKNOWN,,,27,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250156002.jpg
+250079279,Nikola Moro,Croatia,Midfielder,DEFENSIVE_MIDFIELDER,73.0,182.0,26,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079279.jpg
+250132831,Reinildo,Mozambique,Defender,FULL_BACK,,,30,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132831.jpg
+250022829,Hakan Çalhanoğlu,Türkiye,Midfielder,ATTACKING_MIDFIELDER,76.0,176.0,30,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250022829.jpg
+250117405,Francisco Conceição,Portugal,Forward,UNKNOWN,,,21,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117405.jpg
+250086789,Edimilson Fernandes,Switzerland,Midfielder,UNKNOWN,70.0,190.0,28,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250086789.jpg
+250112400,Riccardo Orsolini,Italy,Midfielder,WINGER,,,27,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112400.jpg
+250135101,Raphael Onyedika,Nigeria,Midfielder,UNKNOWN,,,23,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135101.jpg
+250106967,Bryan Gil,Spain,Forward,WINGER,,,23,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106967.jpg
+250112224,Felix Nmecha,Germany,Midfielder,,,,24,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112224.jpg
+250005335,İlkay Gündoğan,Germany,Midfielder,CENTRAL_MIDFIELDER,80.0,180.0,34,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250005335.jpg
+250163400,Antonio Nusa,Norway,Midfielder,UNKNOWN,,,19,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163400.jpg
+250141861,Victor Boniface,Nigeria,Forward,,,,23,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250141861.jpg
+250189047,Zachary Athekame,Switzerland,Defender,,,,19,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189047.jpg
+250164835,Bobby Clark,England,Midfielder,UNKNOWN,,,19,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164835.jpg
+250177722,Andrija Maksimović,Serbia,Forward,,,,17,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177722.jpg
+250169685,Ousmane Diomande,Ivory Coast,Defender,UNKNOWN,,,20,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169685.jpg
+250132811,Luis Díaz,Colombia,Forward,CENTRAL_MIDFIELDER,,,27,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132811.jpg
+250145629,Alexander Bah,Denmark,Defender,FULL_BACK,,,26,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250145629.jpg
+250105244,Aurélien Tchouaméni,France,Midfielder,CENTRAL_MIDFIELDER,,,24,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105244.jpg
+250121584,Kang-in Lee,Korea Republic,Midfielder,STRIKER,,,23,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121584.jpg
+250113373,Bojan Miovski,North Macedonia,Forward,UNKNOWN,,,25,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113373.jpg
+250066739,Nicolò Barella,Italy,Midfielder,CENTRAL_MIDFIELDER,,,27,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250066739.jpg
+250161141,Mamady Diambou,Mali,Midfielder,UNKNOWN,,,21,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250161141.jpg
+250191448,Ayyoub Bouaddi,France,Midfielder,,,,17,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250191448.jpg
+250086315,Ángel Correa,Argentina,Forward,WINGER,70.0,174.0,29,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250086315.jpg
+250167977,Eliesse Ben Seghir,Morocco,Midfielder,UNKNOWN,,,19,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250167977.jpg
+250112842,Greg Taylor,Scotland,Defender,FULL_BACK,,,27,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112842.jpg
+250187184,Dorgeles Nene,Mali,Forward,UNKNOWN,,,21,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187184.jpg
+250113237,Nicolò Fagioli,Italy,Midfielder,UNKNOWN,,,23,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113237.jpg
+250143328,Pedro Gonçalves,Portugal,Midfielder,UNKNOWN,,,26,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250143328.jpg
+250101728,Jurriën Timber,Netherlands,Defender,FULL_BACK,,,23,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101728.jpg
+250134320,Ismael Saibari,Morocco,Forward,ATTACKING_MIDFIELDER,,,23,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134320.jpg
+250058722,Lukáš Haraslín,Slovakia,Midfielder,UNKNOWN,,,28,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058722.jpg
+250117705,Charles De Ketelaere,Belgium,Forward,CENTRAL_MIDFIELDER,,,23,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117705.jpg
+250129175,Seedy Jatta,Norway,Forward,UNKNOWN,,,21,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129175.jpg
+250091187,Sandro Kulenović,Croatia,Forward,STRIKER,76.0,188.0,24,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091187.jpg
+250079541,Maxime Bernauer,France,Defender,CENTRE_BACK,,,26,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079541.jpg
+250063394,Bruno Petković,Croatia,Forward,STRIKER,,,30,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250063394.jpg
+250136464,Gonçalo Inácio,Portugal,Defender,CENTRE_BACK,,,23,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250136464.jpg
+250127540,Thijs Dallinga,Netherlands,Forward,UNKNOWN,,,24,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127540.jpg
+250096716,Ronaël Pierre-Gabriel,France,Defender,CENTRE_BACK,,,26,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250096716.jpg
+250103562,Juan Miranda,Spain,Defender,UNKNOWN,,,24,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250103562.jpg
+250156235,Albion Rrahmani,Kosovo,Forward,UNKNOWN,,,24,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250156235.jpg
+250101097,Caio Henrique,Brazil,Defender,UNKNOWN,,178.0,27,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101097.jpg
+250106722,Khephren Thuram,France,Midfielder,DEFENSIVE_MIDFIELDER,,,23,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106722.jpg
+74699,Luka Modrić,Croatia,Midfielder,CENTRAL_MIDFIELDER,65.0,174.0,39,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/74699.jpg
+250049573,Cristhian Stuani,Uruguay,Forward,UNKNOWN,,,38,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250049573.jpg
+250088150,Davide Frattesi,Italy,Midfielder,UNKNOWN,,,25,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088150.jpg
+250106649,Gabriel Jesus,Brazil,Forward,STRIKER,,,27,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106649.jpg
+250121330,Matheus Reis,Brazil,Defender,UNKNOWN,,,29,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121330.jpg
+250104939,Kastriot Imeri,Switzerland,Midfielder,UNKNOWN,,,24,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250104939.jpg
+250088104,Arnaut Danjuma,Netherlands,Midfielder,STRIKER,,,27,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088104.jpg
+250128468,António Silva,Portugal,Defender,UNKNOWN,,,21,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128468.jpg
+250066747,Manuel Locatelli,Italy,Midfielder,DEFENSIVE_MIDFIELDER,,,26,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250066747.jpg
+250089289,Christoph Baumgartner,Austria,Midfielder,ATTACKING_MIDFIELDER,,,25,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089289.jpg
+250187143,Adam Daghim,Denmark,Forward,UNKNOWN,,,19,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187143.jpg
+250128398,Lucas Gourna-Douath,France,Midfielder,UNKNOWN,,,21,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128398.jpg
+250065413,Konrad Laimer,Austria,Midfielder,CENTRAL_MIDFIELDER,,179.0,27,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250065413.jpg
+250091165,Noa Lang,Netherlands,Forward,WINGER,,,25,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091165.jpg
+250091172,Iván Martín,Spain,Midfielder,UNKNOWN,,,25,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091172.jpg
+250110894,Pierre Lees-Melou,France,Midfielder,WINGER,,,31,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250110894.jpg
+250172787,Jerdy Schouten,Netherlands,Midfielder,UNKNOWN,,,27,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172787.jpg
+250181712,Mohammed Salisu,Ghana,Defender,,,,25,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250181712.jpg
+250110361,David Raum,Germany,Defender,UNKNOWN,,,26,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250110361.jpg
+250024448,Dani Carvajal,Spain,Defender,FULL_BACK,73.0,173.0,32,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250024448.jpg
+250026229,Jaroslav Zelený,Czechia,Defender,FULL_BACK,,,32,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250026229.jpg
+250169265,Banhie Zoukrou,France,Defender,UNKNOWN,,,21,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169265.jpg
+250041781,Niklas Süle,Germany,Defender,UNKNOWN,,,29,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250041781.jpg
+250122187,Mohamed Ali Camara,Rep of Guinea,Defender,CENTRE_BACK,,,27,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250122187.jpg
+250052744,David von Ballmoos,Switzerland,Goalkeeper,GOALKEEPER,,192.0,29,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250052744.jpg
+250138250,Marvin Keller,Switzerland,Goalkeeper,,,,22,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138250.jpg
+250087877,Radosław Majecki,Poland,Goalkeeper,GOALKEEPER,,,24,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250087877.jpg
+250099867,Alisson Becker,Brazil,Goalkeeper,GOALKEEPER,91.0,191.0,32,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250099867.jpg
+250077750,Caoimhin Kelleher,Republic of Ireland,Goalkeeper,,,,25,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250077750.jpg
+250028705,Stefan Ortega,Germany,Goalkeeper,UNKNOWN,,,32,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250028705.jpg
+250090955,Philipp Köhn,Switzerland,Goalkeeper,GOALKEEPER,,,26,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250090955.jpg
+250089824,Andriy Lunin,Ukraine,Goalkeeper,GOALKEEPER,,,25,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089824.jpg
+250079112,Marko Ilić,Serbia,Goalkeeper,UNKNOWN,,,26,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079112.jpg
+250011668,Thibaut Courtois,Belgium,Goalkeeper,GOALKEEPER,91.0,199.0,32,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250011668.jpg
+250073809,Ederson,Brazil,Goalkeeper,UNKNOWN,81.0,188.0,31,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250073809.jpg
+250080461,Omri Glazer,Israel,Goalkeeper,,,,28,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250080461.jpg
+250091198,Matteo Gabbia,Italy,Defender,CENTRE_BACK,,,25,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091198.jpg
+250113392,Riccardo Calafiori,Italy,Defender,FULL_BACK,,,22,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113392.jpg
+250101723,Mitchel Bakker,Netherlands,Defender,UNKNOWN,,,24,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101723.jpg
+250155799,Niklas Geyrhofer,Austria,Defender,,,,24,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250155799.jpg
+250146610,Osame Sahraoui,Norway,Midfielder,,,,23,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250146610.jpg
+250091199,Alessandro Bastoni,Italy,Defender,CENTRE_BACK,,,25,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091199.jpg
+98023,Henrikh Mkhitaryan,Armenia,Midfielder,ATTACKING_MIDFIELDER,72.0,178.0,35,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/98023.jpg
+250132829,Rodrygo,Brazil,Forward,WINGER,,,23,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132829.jpg
+250181460,Ayase Ueda,Japan,Forward,,,,26,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250181460.jpg
+250079383,Ermedin Demirović,Bosnia and Herzegovina,Midfielder,UNKNOWN,,,26,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079383.jpg
+250200231,Maximiliano Araújo,Uruguay,Midfielder,,,,24,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250200231.jpg
+250115436,Fabián Ruiz,Spain,Midfielder,CENTRAL_MIDFIELDER,,,28,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250115436.jpg
+250089719,Aleksa Terzić,Serbia,Defender,UNKNOWN,,,25,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089719.jpg
+250042631,Mario Pašalić,Croatia,Midfielder,CENTRAL_MIDFIELDER,78.0,186.0,29,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042631.jpg
+250196543,Santiago Castro,Argentina,Forward,,,,20,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196543.jpg
+250102308,Daniel Bragança,Portugal,Midfielder,,,,25,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250102308.jpg
+250013058,Charalampos Lykogiannis,Greece,Defender,UNKNOWN,78.0,186.0,31,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250013058.jpg
+250144965,Darwin Núñez,Uruguay,Forward,STRIKER,,,25,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250144965.jpg
+250082469,Dálcio Gomes,Portugal,Midfielder,UNKNOWN,,,28,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250082469.jpg
+250132886,Cheikh Niasse,France,Midfielder,DEFENSIVE_MIDFIELDER,,,24,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132886.jpg
+250066156,Raphaël Guerreiro,Portugal,Defender,FULL_BACK,67.0,170.0,30,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250066156.jpg
+250163777,Aleksandar Pavlovic,Germany,Midfielder,UNKNOWN,,,20,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163777.jpg
+250067295,João Palhinha,Portugal,Midfielder,DEFENSIVE_MIDFIELDER,,189.0,29,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250067295.jpg
+250187837,Ibrahim Osman,Ghana,Forward,UNKNOWN,,,19,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187837.jpg
+250192048,Chris Führich,Germany,Midfielder,,,,26,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250192048.jpg
+103806,Matteo Darmian,Italy,Defender,FULL_BACK,70.0,182.0,34,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/103806.jpg
+250074010,Romain Del Castillo,France,Forward,UNKNOWN,,,28,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250074010.jpg
+250064482,Nuno Santos,Portugal,Forward,UNKNOWN,73.0,179.0,29,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064482.jpg
+250064233,John Stones,England,Defender,CENTRE_BACK,70.0,188.0,30,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064233.jpg
+250090809,Tomáš Wiesner,Czechia,Defender,FULL_BACK,,,27,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250090809.jpg
+250132810,Odilon Kossounou,Ivory Coast,Defender,CENTRE_BACK,,,23,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132810.jpg
+250005231,Arijan Ademi,North Macedonia,Midfielder,DEFENSIVE_MIDFIELDER,79.0,183.0,33,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250005231.jpg
+250094540,Cameron Carter-Vickers,USA,Defender,CENTRE_BACK,,186.0,26,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250094540.jpg
+250164785,Alex Valle,Spain,Defender,UNKNOWN,,,20,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164785.jpg
+250194564,Juan Cabal,Colombia,Defender,,,,23,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250194564.jpg
+250029318,Thomas Meunier,Belgium,Defender,FULL_BACK,78.0,190.0,33,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250029318.jpg
+250101238,Waldemar Anton,Germany,Defender,,,,28,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101238.jpg
+250138928,Exequiel Palacios,Argentina,Midfielder,CENTRAL_MIDFIELDER,,,26,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138928.jpg
+250042632,Marko Pjaca,Croatia,Forward,WINGER,81.0,186.0,29,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042632.jpg
+250081555,Donyell Malen,Netherlands,Forward,STRIKER,,,25,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081555.jpg
+250115134,Hugo Vetlesen,Norway,Midfielder,,,,24,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250115134.jpg
+250173502,Samuel Lino,Brazil,Midfielder,UNKNOWN,,,24,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250173502.jpg
+250118281,Lautaro Martínez,Argentina,Forward,STRIKER,,,27,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118281.jpg
+250113947,Łukasz Łakomy,Poland,Midfielder,,,,23,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113947.jpg
+250019616,Tomi Horvat,Slovenia,Midfielder,UNKNOWN,,,25,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250019616.jpg
+250144297,El Bilal Touré,Mali,Forward,,,,23,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250144297.jpg
+250166754,Kacper Urbański,Poland,Midfielder,,,,20,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250166754.jpg
+102153,Vladimír Weiss,Slovakia,Midfielder,WINGER,71.0,173.0,34,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/102153.jpg
+250166930,Arthur Vermeeren,Belgium,Midfielder,UNKNOWN,,,19,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250166930.jpg
+250138653,Nicolò Savona,Italy,Defender,,,,21,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138653.jpg
+250198501,Anrie Chase,Japan,Defender,UNKNOWN,,,20,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198501.jpg
+250061361,Alexander Sørloth,Norway,Forward,STRIKER,,,28,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250061361.jpg
+250186923,Javier Galán,Spain,Defender,UNKNOWN,,,29,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250186923.jpg
+250058220,Rúben Dias,Portugal,Defender,CENTRE_BACK,,,27,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058220.jpg
+250127347,Karim Adeyemi,Germany,Forward,STRIKER,,,22,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127347.jpg
+250128409,Alan Virginius,France,Forward,UNKNOWN,,,21,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128409.jpg
+250124222,Maximilian Beier,Germany,Forward,STRIKER,,,22,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124222.jpg
+250193519,Kevin,Brazil,Midfielder,,,,21,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193519.jpg
+250114167,Nicolas Seiwald,Austria,Midfielder,UNKNOWN,,,23,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250114167.jpg
+250128270,Eduardo Camavinga,France,Midfielder,DEFENSIVE_MIDFIELDER,,,21,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128270.jpg
+250154416,Stefan Bajcetic,Spain,Midfielder,UNKNOWN,,,20,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250154416.jpg
+250080570,Marco Asensio,Spain,Forward,ATTACKING_MIDFIELDER,70.0,178.0,28,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250080570.jpg
+250102901,Mama Baldé,Guinea-Bissau,Forward,UNKNOWN,,,29,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250102901.jpg
+1903428,Marko Arnautović,Austria,Forward,WINGER,83.0,192.0,35,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1903428.jpg
+250124849,Lazar Samardzic,Serbia,Midfielder,UNKNOWN,,,22,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124849.jpg
+250200298,Kamory Doumbia,Mali,Midfielder,UNKNOWN,,,21,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250200298.jpg
+250055957,Robert Andrich,Germany,Midfielder,,,,30,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055957.jpg
+250079670,Marcos Llorente,Spain,Midfielder,UNKNOWN,71.0,182.0,29,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079670.jpg
+250198114,Ngal'Ayel Mukau,Belgium,Midfielder,UNKNOWN,,,20,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198114.jpg
+250019346,Loris Benito,Switzerland,Defender,FULL_BACK,80.0,184.0,32,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250019346.jpg
+250115487,Danylo Sikan,Ukraine,Forward,STRIKER,,,23,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250115487.jpg
+250197796,Juanpe,Spain,Defender,,,,33,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250197796.jpg
+1906768,Oriol Romeu,Spain,Midfielder,DEFENSIVE_MIDFIELDER,75.0,183.0,33,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1906768.jpg
+250007075,Mattia Perin,Italy,Goalkeeper,GOALKEEPER,77.0,188.0,31,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250007075.jpg
+250116067,Mads Bidstrup,Denmark,Midfielder,UNKNOWN,,,23,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250116067.jpg
+250128385,Samuel Iling-Junior,England,Forward,UNKNOWN,,,21,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128385.jpg
+250163447,Amine Adli,Morocco,Forward,UNKNOWN,,,24,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163447.jpg
+250105167,Adam Idah,Republic of Ireland,Forward,,,,23,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105167.jpg
+250166916,Matias Fernandez-Pardo,Belgium,Forward,,,,19,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250166916.jpg
+250058270,Viktor Tsygankov,Ukraine,Midfielder,WINGER,70.0,175.0,26,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058270.jpg
+250132309,Sharani Zuberu,Ghana,Forward,,,,24,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132309.jpg
+250039931,Danilo,Brazil,Defender,UNKNOWN,78.0,184.0,33,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250039931.jpg
+250080572,Mikel Merino,Spain,Midfielder,CENTRAL_MIDFIELDER,,,28,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250080572.jpg
+250188246,Tiago Santos,Portugal,Defender,UNKNOWN,,,22,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188246.jpg
+250052957,Francesco Acerbi,Italy,Defender,CENTRE_BACK,87.0,193.0,36,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250052957.jpg
+250168465,Lovro Zvonarek,Croatia,Midfielder,UNKNOWN,,,19,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250168465.jpg
+250113142,Jérémy Doku,Belgium,Midfielder,STRIKER,,,22,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113142.jpg
+50327423,Frenkie de Jong,Netherlands,Midfielder,CENTRAL_MIDFIELDER,68.0,178.0,27,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/50327423.jpg
+250063984,Leroy Sané,Germany,Midfielder,WINGER,75.0,183.0,28,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250063984.jpg
+250183092,Nino Marcelli,Slovakia,Forward,,,,19,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250183092.jpg
+250057117,Jonas Hofmann,Germany,Midfielder,WINGER,70.0,176.0,32,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250057117.jpg
+250068805,Marcus Thuram,France,Forward,WINGER,,,27,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250068805.jpg
+250010223,Rémy Cabella,France,Midfielder,ATTACKING_MIDFIELDER,62.0,171.0,34,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250010223.jpg
+250127239,Matteo Ruggeri,Italy,Defender,,,,22,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127239.jpg
+250014636,Kevin Kampl,Slovenia,Midfielder,CENTRAL_MIDFIELDER,67.0,180.0,34,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250014636.jpg
+250153851,El Chadaille Bitshiabu,France,Defender,,,,19,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153851.jpg
+250132195,Richard Ledezma,USA,Midfielder,CENTRAL_MIDFIELDER,,,24,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132195.jpg
+250023551,Mateo Kovačić,Croatia,Midfielder,ATTACKING_MIDFIELDER,77.0,178.0,30,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250023551.jpg
+250058218,Renato Sanches,Portugal,Midfielder,CENTRAL_MIDFIELDER,70.0,176.0,27,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058218.jpg
+250174830,Soungoutou Magassa,France,Midfielder,UNKNOWN,,,21,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174830.jpg
+250117511,Yunus Musah,USA,Midfielder,,,,21,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117511.jpg
+250117406,Paulo Bernardo,Portugal,Midfielder,CENTRAL_MIDFIELDER,,,22,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117406.jpg
+250146926,Randal Kolo Muani,France,Forward,UNKNOWN,,,25,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250146926.jpg
+250153634,Giuliano Simeone,Argentina,Forward,,,,21,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153634.jpg
+250071671,Marko Rog,Croatia,Midfielder,CENTRAL_MIDFIELDER,73.0,180.0,29,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250071671.jpg
+250067629,Tammy Abraham,England,Forward,UNKNOWN,,,27,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250067629.jpg
+250154302,Hendry Blank,Germany,Defender,,,,20,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250154302.jpg
+250162177,Désiré Doué,France,Forward,UNKNOWN,,,19,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250162177.jpg
+250162865,Zeki Amdouni,Switzerland,Forward,UNKNOWN,,,23,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250162865.jpg
+250042329,Jack Grealish,England,Midfielder,,,,29,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042329.jpg
+250055110,Patrik Schick,Czechia,Forward,STRIKER,73.0,186.0,28,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055110.jpg
+250197801,Gerard Martín,Spain,Defender,,,,22,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250197801.jpg
+250088320,Ferran Torres,Spain,Forward,WINGER,,,24,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088320.jpg
+250132465,Darian Males,Switzerland,Midfielder,STRIKER,,,23,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132465.jpg
+250133390,Bruno Duarte,Brazil,Forward,STRIKER,,,28,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250133390.jpg
+250104089,Angel Gomes,England,Midfielder,CENTRAL_MIDFIELDER,,,24,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250104089.jpg
+250171045,Issa Kaboré,Burkina Faso,Defender,,,,23,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171045.jpg
+250099459,Martin Terrier,France,Forward,WINGER,,,27,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250099459.jpg
+250066157,Andy Robertson,Scotland,Defender,UNKNOWN,,,30,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250066157.jpg
+250123978,Malick Thiaw,Germany,Defender,,,,23,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123978.jpg
+250098468,Luka Ivanušec,Croatia,Forward,ATTACKING_MIDFIELDER,,,25,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250098468.jpg
+250080471,Diogo Jota,Portugal,Forward,STRIKER,70.0,178.0,27,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250080471.jpg
+250067334,Rick Karsdorp,Netherlands,Defender,FULL_BACK,,182.0,29,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250067334.jpg
+250132322,Bremer,Brazil,Defender,UNKNOWN,,,27,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250132322.jpg
+250106935,Curtis Jones,England,Midfielder,UNKNOWN,,,23,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106935.jpg
+250054949,Kingsley Coman,France,Forward,WINGER,71.0,178.0,28,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250054949.jpg
+250164780,Fermín López,Spain,Forward,CENTRAL_MIDFIELDER,,,21,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164780.jpg
+250092194,Dario Špikić,Croatia,Forward,UNKNOWN,,,25,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250092194.jpg
+250101313,Rodrigo Riquelme,Spain,Midfielder,UNKNOWN,,,24,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101313.jpg
+250134728,Alejandro Francés,Spain,Defender,,,,22,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134728.jpg
+250089209,Jan-Niklas Beste,Germany,Defender,UNKNOWN,,,25,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089209.jpg
+250115948,Strahinja Pavlović,Serbia,Defender,CENTRE_BACK,,,23,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250115948.jpg
+250198119,Anis Hadj Moussa,Algeria,Forward,,,,22,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198119.jpg
+250188225,George Ilenikhena,Nigeria,Forward,UNKNOWN,,,18,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188225.jpg
+1906511,Milan Rodić,Serbia,Defender,FULL_BACK,,185.0,33,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1906511.jpg
+250139036,Pablo Barrios,Spain,Midfielder,UNKNOWN,,,21,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139036.jpg
+250129343,Maurits Kjærgaard,Denmark,Midfielder,UNKNOWN,,,21,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129343.jpg
+250082664,Rodri,Spain,Midfielder,DEFENSIVE_MIDFIELDER,,,28,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250082664.jpg
+250054969,Jon Gorenc Stanković,Slovenia,Midfielder,UNKNOWN,,,28,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250054969.jpg
+250052849,Mirko Ivanić,Montenegro,Midfielder,ATTACKING_MIDFIELDER,,,31,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250052849.jpg
+250107509,Elias Cobbaut,Belgium,Defender,FULL_BACK,,,26,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250107509.jpg
+250042779,Clément Lenglet,France,Defender,UNKNOWN,81.0,186.0,29,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042779.jpg
+250102417,Siemen Voet,Belgium,Defender,UNKNOWN,,,24,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250102417.jpg
+250186123,Julien Le Cardinal,France,Defender,,,,27,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250186123.jpg
+250073778,Samy Mmaee,Morocco,Defender,CENTRE_BACK,,180.0,28,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250073778.jpg
+250177879,Santiago Giménez,Mexico,Forward,UNKNOWN,,,23,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177879.jpg
+250112513,Robin Le Normand,Spain,Defender,CENTRE_BACK,,,27,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112513.jpg
+108908,Daley Blind,Netherlands,Defender,CENTRE_BACK,72.0,180.0,34,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/108908.jpg
+250182606,Jahmai Simpson-Pusey,England,Defender,,,,19,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250182606.jpg
+250055149,Asger Sørensen,Denmark,Defender,CENTRE_BACK,,190.0,28,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055149.jpg
+250174737,Alexander Meyer,Germany,Goalkeeper,UNKNOWN,,,33,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174737.jpg
+250029377,Danijel Zagorac,Croatia,Goalkeeper,GOALKEEPER,,,37,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250029377.jpg
+250090101,Matvei Safonov,Russia,Goalkeeper,GOALKEEPER,,,25,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250090101.jpg
+250081931,Joël Drommel,Netherlands,Goalkeeper,,,,27,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081931.jpg
+250117491,Matěj Kovář,Czechia,Goalkeeper,GOALKEEPER,,,24,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117491.jpg
+250007631,Marc-André ter Stegen,Germany,Goalkeeper,GOALKEEPER,85.0,187.0,32,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250007631.jpg
+250193518,Marlon Gomes,Brazil,Midfielder,,,,20,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193518.jpg
+250089688,Vanja Drkušić,Slovenia,Defender,UNKNOWN,,,25,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089688.jpg
+250056982,Guélor Kanga,Gabon,Midfielder,ATTACKING_MIDFIELDER,,,34,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250056982.jpg
+250141610,Meschack Elia,DR Congo,Forward,STRIKER,,,27,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250141610.jpg
+250121552,Romain Faivre,France,Midfielder,UNKNOWN,,,26,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121552.jpg
+250064273,Cédric Itten,Switzerland,Forward,STRIKER,,,27,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064273.jpg
+1905643,Juraj Kucka,Slovakia,Midfielder,DEFENSIVE_MIDFIELDER,86.0,186.0,37,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1905643.jpg
+250063617,Jordan Amavi,France,Defender,FULL_BACK,,,30,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250063617.jpg
+250107324,Nicolò Zaniolo,Italy,Forward,ATTACKING_MIDFIELDER,,,25,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250107324.jpg
+250003318,Thomas Müller,Germany,Forward,WINGER,74.0,186.0,35,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250003318.jpg
+250061589,Casper Nielsen,Denmark,Midfielder,UNKNOWN,,,30,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250061589.jpg
+250137525,Nicolás González,Argentina,Forward,UNKNOWN,,,26,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250137525.jpg
+250172340,Christian Mawissa,France,Defender,,,,19,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172340.jpg
+250193531,Benjamin Rollheiser,Argentina,Forward,,,,24,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193531.jpg
+250199902,Selvi Clua,Spain,Midfielder,,,,19,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250199902.jpg
+250097337,Luka Ilić,Serbia,Midfielder,CENTRAL_MIDFIELDER,,,25,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250097337.jpg
+250101472,Timothy Weah,USA,Forward,STRIKER,,,24,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101472.jpg
+250178782,Leandro Morgalla,Germany,Defender,UNKNOWN,,,20,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250178782.jpg
+250144288,Jakub Pešek,Czechia,Midfielder,WINGER,,,31,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250144288.jpg
+250091175,Fran García,Spain,Defender,FULL_BACK,,,25,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091175.jpg
+1902685,Taras Stepanenko,Ukraine,Midfielder,DEFENSIVE_MIDFIELDER,75.0,181.0,35,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1902685.jpg
+250077453,Nathan Tella,Nigeria,Forward,UNKNOWN,,,25,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250077453.jpg
+250174849,Ramiz Zerrouki,Algeria,Midfielder,UNKNOWN,,,26,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174849.jpg
+250027008,Nathan Aké,Netherlands,Defender,UNKNOWN,75.0,180.0,29,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250027008.jpg
+250121329,Nordi Mukiele,France,Defender,FULL_BACK,,,27,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121329.jpg
+250142158,Ermal Krasniqi,Kosovo,Midfielder,UNKNOWN,,,26,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250142158.jpg
+250063957,Pascal Stenzel,Germany,Defender,UNKNOWN,,,28,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250063957.jpg
+250123910,Erencan Yardımcı,Türkiye,Forward,UNKNOWN,,,22,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123910.jpg
+250174851,Gijs Smal,Netherlands,Defender,,,,27,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174851.jpg
+250187671,Newertton,Brazil,Midfielder,UNKNOWN,,,19,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187671.jpg
+250112117,Tommaso Pobega,Italy,Midfielder,CENTRAL_MIDFIELDER,,,25,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112117.jpg
+250193506,Amady Camara,Mali,Forward,,,,19,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193506.jpg
+250058044,Davide Calabria,Italy,Defender,FULL_BACK,,,27,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058044.jpg
+250153701,Chemsdine Talbi,Belgium,Midfielder,UNKNOWN,,,19,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153701.jpg
+250056685,Bart Nieuwkoop,Netherlands,Defender,FULL_BACK,,180.0,28,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250056685.jpg
+250194573,Endrick,Brazil,Forward,,,,18,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250194573.jpg
+250117806,Fabian Rieder,Switzerland,Midfielder,ATTACKING_MIDFIELDER,,,22,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117806.jpg
+250015966,Juan Cuadrado,Colombia,Midfielder,UNKNOWN,66.0,176.0,36,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250015966.jpg
+250177423,Moussa Yeo,Mali,Midfielder,,,,20,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177423.jpg
+250118797,Folarin Balogun,USA,Forward,STRIKER,,,23,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118797.jpg
+250055899,Alexander Schlager,Austria,Goalkeeper,GOALKEEPER,,,28,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055899.jpg
+250105686,Michał Skóraś,Poland,Forward,WINGER,,,24,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105686.jpg
+250163731,Yan Couto,Brazil,Defender,UNKNOWN,,,22,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163731.jpg
+250197958,Mohamed Bayo,Rep of Guinea,Forward,,,,26,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250197958.jpg
+250090719,Gustaf Nilsson,Sweden,Forward,UNKNOWN,,,27,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250090719.jpg
+250117415,Eduardo Quaresma,Portugal,Defender,CENTRE_BACK,,,22,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117415.jpg
+250138985,Kyriani Sabbe,Belgium,Defender,UNKNOWN,,,19,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138985.jpg
+250105890,Joey Veerman,Netherlands,Midfielder,UNKNOWN,,,25,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105890.jpg
+250022869,Yussuf Poulsen,Denmark,Forward,STRIKER,78.0,193.0,30,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250022869.jpg
+250020850,Jonas Martin,France,Midfielder,UNKNOWN,78.0,184.0,34,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250020850.jpg
+250014114,Ricardo Esgaio,Portugal,Defender,FULL_BACK,65.0,171.0,31,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250014114.jpg
+250197264,Couhaib Driouech,Netherlands,Forward,,,,22,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250197264.jpg
+250135615,James McAtee,England,Midfielder,UNKNOWN,,,22,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135615.jpg
+250008901,Kevin De Bruyne,Belgium,Midfielder,ATTACKING_MIDFIELDER,68.0,181.0,33,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250008901.jpg
+250196663,Chris-Kévin Nadje,Ivory Coast,Midfielder,,,,23,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196663.jpg
+250187067,Felício Milson,Angola,Midfielder,,,,25,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187067.jpg
+250101696,Noah Okafor,Switzerland,Forward,WINGER,,,24,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101696.jpg
+250176491,Vinicius Tobias,Brazil,Defender,UNKNOWN,,,20,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176491.jpg
+250129735,Luka Stojković,Croatia,Midfielder,,,,21,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129735.jpg
+250056189,Federico Dimarco,Italy,Defender,UNKNOWN,,174.0,26,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250056189.jpg
+250081720,Dani Olmo,Spain,Forward,WINGER,68.0,176.0,26,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081720.jpg
+250089276,Jens Odgaard,Denmark,Forward,UNKNOWN,,,25,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089276.jpg
+250128222,Lassina Traoré,Burkina Faso,Forward,STRIKER,,,23,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128222.jpg
+250136445,Javi Serrano,Spain,Midfielder,,,,21,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250136445.jpg
+250180309,John Mellberg,Sweden,Defender,UNKNOWN,,,18,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250180309.jpg
+250194557,Alaa Ghram,Tunisia,Defender,,,,23,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250194557.jpg
+250088039,Brahim Díaz,Morocco,Midfielder,ATTACKING_MIDFIELDER,,,25,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088039.jpg
+250105681,Jakub Kiwior,Poland,Defender,UNKNOWN,,,24,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105681.jpg
+250165236,Ousmane Toure,France,Defender,,,,19,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250165236.jpg
+1902445,Sven Ulreich,Germany,Goalkeeper,UNKNOWN,84.0,192.0,36,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1902445.jpg
+250121972,Douglas Luiz,Brazil,Midfielder,UNKNOWN,,,26,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121972.jpg
+250181428,Hyunjun,Korea Republic,Midfielder,,,,22,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250181428.jpg
+250041771,Leon Goretzka,Germany,Midfielder,CENTRAL_MIDFIELDER,79.0,189.0,29,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250041771.jpg
+250130771,Kryštof Daněk,Czechia,Midfielder,,,,21,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250130771.jpg
+250172227,Julien Duranville,Belgium,Midfielder,UNKNOWN,,,18,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172227.jpg
+250122746,Samuel Chukwueze,Nigeria,Forward,WINGER,,,25,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250122746.jpg
+250006998,Cristian Portu,Spain,Midfielder,WINGER,,,32,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250006998.jpg
+250185976,Yáser Asprilla,Colombia,Midfielder,,,,20,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250185976.jpg
+250143669,Kristjan Asllani,Albania,Midfielder,UNKNOWN,,,22,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250143669.jpg
+250161881,Arda Güler,Türkiye,Midfielder,UNKNOWN,,,19,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250161881.jpg
+250024795,Raheem Sterling,England,Midfielder,WINGER,69.0,170.0,29,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250024795.jpg
+250177333,Lorenzo Torriani,Italy,Goalkeeper,,,,19,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177333.jpg
+250123428,Mathias Pereira Lage,France,Forward,,,,27,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123428.jpg
+107044,Róbert Mak,Slovakia,Midfielder,WINGER,78.0,179.0,33,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/107044.jpg
+250087967,Jeremiah St. Juste,Netherlands,Defender,UNKNOWN,,,28,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250087967.jpg
+250117471,Ansu Fati,Spain,Forward,UNKNOWN,,,22,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117471.jpg
+250067749,Jorginho,Italy,Midfielder,CENTRAL_MIDFIELDER,65.0,180.0,32,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250067749.jpg
+250164781,Sergi Dominguez,Spain,Defender,UNKNOWN,,,19,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164781.jpg
+250196664,Julián Carranza,Argentina,Forward,,,,24,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196664.jpg
+250196665,Jhon Solís,Colombia,Midfielder,UNKNOWN,,,20,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196665.jpg
+250091841,Eljif Elmas,North Macedonia,Midfielder,CENTRAL_MIDFIELDER,,,25,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250091841.jpg
+250041564,Július Szöke,Slovakia,Midfielder,,,,29,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250041564.jpg
+250193534,Pau Victor,Spain,Forward,,,,22,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193534.jpg
+250055109,Lukáš Sadílek,Czechia,Midfielder,UNKNOWN,,,28,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055109.jpg
+250121536,Krépin Diatta,Senegal,Midfielder,WINGER,,,25,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121536.jpg
+250198274,Idjessi Metsoko,France,Forward,,,,22,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198274.jpg
+250134190,Arthur Cabral,Brazil,Forward,STRIKER,,,26,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134190.jpg
+250099399,Michel Aebischer,Switzerland,Midfielder,CENTRAL_MIDFIELDER,,,27,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250099399.jpg
+1909868,James Forrest,Scotland,Midfielder,WINGER,67.0,170.0,33,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1909868.jpg
+250139255,Gavi,Spain,Midfielder,UNKNOWN,,,20,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139255.jpg
+250086709,Dani Ceballos,Spain,Midfielder,CENTRAL_MIDFIELDER,65.0,176.0,28,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250086709.jpg
+250176187,Rhodri Smith,Switzerland,Defender,,,,18,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176187.jpg
+250138626,Nicolò Casale,Italy,Defender,,,,26,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138626.jpg
+250175393,Ibrahim Salah,Belgium,Forward,UNKNOWN,,,23,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250175393.jpg
+250171667,Héctor Fort,Spain,Defender,,,,18,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171667.jpg
+250077644,Abdu Conté,Portugal,Defender,UNKNOWN,,,26,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250077644.jpg
+250058215,Joe Gomez,England,Defender,UNKNOWN,,,27,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058215.jpg
+250144964,Pedrinho,Brazil,Midfielder,WINGER,,,26,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250144964.jpg
+250164004,Ognjen Mimović,Serbia,Defender,,,,20,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164004.jpg
+250029862,Aleksandar Katai,Serbia,Midfielder,WINGER,74.0,182.0,33,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250029862.jpg
+250166680,Vasilije Adžić,Montenegro,Midfielder,UNKNOWN,,,18,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250166680.jpg
+250050416,Eric Dier,England,Defender,DEFENSIVE_MIDFIELDER,88.0,188.0,30,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250050416.jpg
+250187620,Ricardo Pepi,USA,Forward,UNKNOWN,,,21,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187620.jpg
+250055216,Nemanja Radonjić,Serbia,Midfielder,WINGER,,,28,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250055216.jpg
+250163186,Lukas Kačavenda,Croatia,Midfielder,,,,21,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163186.jpg
+250110159,Arbër Hoxha,Albania,Forward,UNKNOWN,,,26,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250110159.jpg
+250138982,Romeo Vermant,Belgium,Forward,UNKNOWN,,,20,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138982.jpg
+250181082,Myles Lewis-Skelly,England,Midfielder,,,,18,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250181082.jpg
+250127024,Fredrik Oppegård,Norway,Defender,FULL_BACK,,,22,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127024.jpg
+250198120,Jeyland Mitchell,Costa Rica,Defender,UNKNOWN,,,20,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198120.jpg
+250161142,Daouda Guindo,Mali,Defender,UNKNOWN,,,22,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250161142.jpg
+250096737,Anthony Ralston,Scotland,Defender,FULL_BACK,,,25,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250096737.jpg
+250118912,Eliot Matazo,Belgium,Midfielder,UNKNOWN,,,22,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118912.jpg
+250174602,Luis Palma,Honduras,Midfielder,,,,24,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174602.jpg
+250187899,Conrad Harder,Denmark,Forward,,,,19,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187899.jpg
+250135607,Conor Bradley,Northern Ireland,Defender,,,,21,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135607.jpg
+250182794,Francesco Camarda,Italy,Forward,UNKNOWN,,,16,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250182794.jpg
+250187320,Bjorn Meijer,Netherlands,Defender,,,,21,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187320.jpg
+250200307,Luke McCowan,Scotland,Midfielder,,,,26,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250200307.jpg
+250139101,Artur Gajdoš,Slovakia,Midfielder,UNKNOWN,,,20,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139101.jpg
+250159294,Cole Campbell,Iceland,Midfielder,UNKNOWN,,,18,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250159294.jpg
+250170137,Assan Ouedraogo,Germany,Midfielder,,,,18,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250170137.jpg
+250169763,Isaac Babadi,Netherlands,Midfielder,UNKNOWN,,,19,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169763.jpg
+250161761,Jeanuël Belocian,France,Defender,UNKNOWN,,,19,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250161761.jpg
+250199913,Min-su Kim,Korea Republic,Forward,,,,18,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250199913.jpg
+250138623,Indrit Tuci,Albania,Forward,,,,24,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138623.jpg
+250010259,Kyle Walker,England,Defender,FULL_BACK,70.0,178.0,34,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250010259.jpg
+250198122,Jastin García,Spain,Forward,,,,20,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198122.jpg
+250004986,Lukáš Pauschek,Slovakia,Defender,UNKNOWN,,,31,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250004986.jpg
+250107089,Matúš Vojtko,Slovakia,Defender,UNKNOWN,,,24,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250107089.jpg
+250103561,Eric García,Spain,Defender,CENTRE_BACK,,,23,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250103561.jpg
+250042521,André Silva,Portugal,Forward,STRIKER,78.0,182.0,29,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042521.jpg
+250177597,Senny Mayulu,France,Midfielder,UNKNOWN,,,18,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177597.jpg
+250183510,Kassoum Ouattara,France,Defender,UNKNOWN,,,20,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250183510.jpg
+250180810,Jarzinho Malanga,Germany,Forward,UNKNOWN,,,18,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250180810.jpg
+250165221,Nico O’Reilly,England,Midfielder,,,,19,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250165221.jpg
+250054393,Gregory Wüthrich,Switzerland,Defender,CENTRE_BACK,88.0,192.0,29,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250054393.jpg
+1906553,Stefan Hierländer,Austria,Midfielder,UNKNOWN,71.0,180.0,33,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/1906553.jpg
+250170117,Ethan Nwaneri,England,Midfielder,UNKNOWN,,,17,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250170117.jpg
+250137395,Samuel Mbangula,Belgium,Forward,UNKNOWN,,,20,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250137395.jpg
+250116699,Lewis Ferguson,Scotland,Midfielder,,,,25,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250116699.jpg
+250056861,Oleksandr Zinchenko,Ukraine,Defender,FULL_BACK,61.0,175.0,27,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250056861.jpg
+250186116,Yegor Prutsev,Serbia,Midfielder,UNKNOWN,,,21,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250186116.jpg
+250197800,Facundo Gonzalez,Italy,Defender,,,,21,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250197800.jpg
+250168996,Pablo Torre,Spain,Midfielder,UNKNOWN,,,21,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250168996.jpg
+250126267,Markus Solbakken,Norway,Midfielder,,,,24,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250126267.jpg
+250172594,Petar Ratkov,Serbia,Forward,UNKNOWN,,,21,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172594.jpg
+250133903,Ben Godfrey,England,Defender,UNKNOWN,,,26,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250133903.jpg
+250089626,Leandro Barreiro,Luxembourg,Midfielder,UNKNOWN,,,24,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250089626.jpg
+250123020,Marco Brescianini,Italy,Midfielder,CENTRAL_MIDFIELDER,,,24,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123020.jpg
+250190378,Andres Cuenca,Spain,Defender,UNKNOWN,,,17,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250190378.jpg
+250154458,Martin Suchomel,Czechia,Defender,,,,22,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250154458.jpg
+250140936,Mathys Tel,France,Forward,UNKNOWN,,,19,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250140936.jpg
+250187793,Adamo Nagalo,Burkina Faso,Defender,,,,22,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187793.jpg
+250116759,Alen Mustafić,Bosnia and Herzegovina,Midfielder,UNKNOWN,,,25,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250116759.jpg
+250138999,Andreas Schjelderup,Norway,Forward,UNKNOWN,,,20,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138999.jpg
+250128391,Jarell Quansah,England,Defender,,,,21,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128391.jpg
+250178067,Gjivai Zechiel,Netherlands,Midfielder,,,,20,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250178067.jpg
+250154309,Jonas Rouhi,Sweden,Defender,,,,20,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250154309.jpg
+250087431,Dan-Axel Zagadou,France,Defender,FULL_BACK,,,25,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250087431.jpg
+250134952,Ayman Azhil,Germany,Midfielder,DEFENSIVE_MIDFIELDER,,,23,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250134952.jpg
+250189107,Konstantin Schopp,Austria,Defender,,,,18,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189107.jpg
+250081341,Martin Ødegaard,Norway,Midfielder,ATTACKING_MIDFIELDER,68.0,170.0,25,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081341.jpg
+250090398,Federico Chiesa,Italy,Midfielder,ATTACKING_MIDFIELDER,,,27,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250090398.jpg
+250097935,Wataru Endo,Japan,Midfielder,UNKNOWN,,,31,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250097935.jpg
+250104128,Bartol Franjić,Croatia,Defender,DEFENSIVE_MIDFIELDER,,,24,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250104128.jpg
+250193442,Lucas Beraldo,Brazil,Defender,UNKNOWN,,,20,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193442.jpg
+93443,Rui Patrício,Portugal,Goalkeeper,GOALKEEPER,84.0,190.0,36,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/93443.jpg
+69178,Scott Carson,England,Goalkeeper,UNKNOWN,86.0,190.0,39,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/69178.jpg
+250204164,Morgan Costarelli,France,Defender,,,,19,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250204164.jpg
+250202692,Lucas García,Spain,Goalkeeper,,,,20,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250202692.jpg
+250201731,Younes Lachaab,France,Forward,,,,19,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250201731.jpg
+250201718,Isaac Cossier,France,Defender,,,,17,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250201718.jpg
+250200248,Trey Nyoni,England,Forward,,,,17,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250200248.jpg
+250199905,Pau García,Spain,Goalkeeper,,,,17,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250199905.jpg
+250199900,Marc Aznar,Spain,Defender,,,,18,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250199900.jpg
+250199899,Juan Arango,Spain,Forward,,,,18,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250199899.jpg
+250199543,Christopher Olivier,Austria,Defender,,,,18,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250199543.jpg
+250199225,Juan Córdoba,Colombia,Forward,UNKNOWN,,,21,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250199225.jpg
+250198502,Luca Raimund,Germany,Midfielder,UNKNOWN,,,19,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198502.jpg
+250198498,Noah Jauny,France,Goalkeeper,UNKNOWN,,,20,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250198498.jpg
+250197866,Gianluca Prestianni,Argentina,Forward,,,,18,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250197866.jpg
+250196593,Zaid Romero,Argentina,Defender,UNKNOWN,,,24,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196593.jpg
+250196587,Grégoire Coudert,France,Goalkeeper,UNKNOWN,,,25,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196587.jpg
+250196584,Axel Camblan,France,Forward,UNKNOWN,,,21,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196584.jpg
+250196581,Elvis Isaac,Nigeria,Forward,,,,22,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196581.jpg
+250196544,Tommaso Corazza,Italy,Defender,,,,20,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196544.jpg
+250196542,Federico Ravaglia,Italy,Goalkeeper,,,,24,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250196542.jpg
+250195173,Pietro Comi,Italy,Defender,,,,19,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250195173.jpg
+250194271,Jacob Hödl,Austria,Midfielder,UNKNOWN,,,17,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250194271.jpg
+250193410,Alberto Manzoni,Italy,Midfielder,,,,19,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250193410.jpg
+250192873,Arjan Malić,Slovenia,Midfielder,,,,19,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250192873.jpg
+250192699,Mauro Couto,Portugal,Forward,,,,18,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250192699.jpg
+250192639,Lorin Jetzer,Switzerland,Defender,,,,18,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250192639.jpg
+250192405,Michael Anthony Bresser,Netherlands,Defender,UNKNOWN,,,17,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250192405.jpg
+250192269,Antonio Fernandez,Spain,Midfielder,UNKNOWN,,,16,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250192269.jpg
+250190780,Jimi Gower,England,Midfielder,,,,20,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250190780.jpg
+250190776,Maldini Kacurri,Albania,Defender,,,,19,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250190776.jpg
+250190774,Jack Porter,England,Goalkeeper,,,,16,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250190774.jpg
+250190375,Guillermo Fernandez,Spain,Midfielder,,,,16,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250190375.jpg
+250190232,Ismail Ka,Netherlands,Goalkeeper,,,,18,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250190232.jpg
+250190117,Ibrahim Mbaye,France,Forward,UNKNOWN,,,16,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250190117.jpg
+250189610,Viggo Gebel,Germany,Midfielder,UNKNOWN,,,16,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189610.jpg
+250189230,Joshua Robinson,England,Defender,,,,19,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189230.jpg
+250189174,Marco Palestra,Italy,Defender,,,,19,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189174.jpg
+250189136,Gerónimo Spina,Argentina,Defender,,,,19,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250189136.jpg
+250188470,Lilian Baret,France,Midfielder,,,,18,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188470.jpg
+250188129,Arthur,Brazil,Defender,,,,21,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250188129.jpg
+250187771,Tijn Smolenaars,Netherlands,Goalkeeper,UNKNOWN,,,19,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250187771.jpg
+250185049,Samuel Nibombe,Belgium,Defender,,,,17,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250185049.jpg
+250184504,Oliver Sorg,Austria,Defender,UNKNOWN,,,17,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250184504.jpg
+250183894,Antal Yaakobishvili,Hungary,Defender,,,,20,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250183894.jpg
+250183341,Saimon Bouabre,France,Midfielder,,,,18,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250183341.jpg
+250182971,Zine-Eddine Oulad M'Hand,Netherlands,Midfielder,UNKNOWN,,,21,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250182971.jpg
+250180112,Tygo Land,Netherlands,Midfielder,UNKNOWN,,,18,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250180112.jpg
+250180111,Zepiqueno Redmond,Netherlands,Forward,UNKNOWN,,,18,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250180111.jpg
+250180059,João Simões,Portugal,Midfielder,,,,17,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250180059.jpg
+250179734,Lucas Dominguez,Spain,Defender,,,,18,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250179734.jpg
+250179137,Iván Fresneda,Spain,Defender,,,,20,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250179137.jpg
+250179078,Tyler Meiser,Germany,Defender,UNKNOWN,,,17,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250179078.jpg
+250178085,Mannou Berger,Netherlands,Goalkeeper,,,,20,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250178085.jpg
+250178076,Nathan Butler-Oyedeji,England,Forward,,,,21,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250178076.jpg
+250177933,Nicola Bagnolini,Italy,Goalkeeper,,,,20,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177933.jpg
+250177819,Jacob Wright,England,Midfielder,,,,19,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177819.jpg
+250177612,Yoram Zague,France,Defender,UNKNOWN,,,18,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177612.jpg
+250177593,Naoufel El Hannach,France,Defender,,,,17,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177593.jpg
+250177433,Valentin Oelz,Austria,Goalkeeper,,,,19,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177433.jpg
+250177426,Oliver Lukic,Austria,Midfielder,UNKNOWN,,,18,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177426.jpg
+250177381,Davide Bartesaghi,Italy,Defender,UNKNOWN,,,18,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177381.jpg
+250177259,Leandro Santos,Portugal,Defender,,,,19,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250177259.jpg
+250176532,Fran González,Spain,Goalkeeper,UNKNOWN,,,19,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176532.jpg
+250176488,Jacobo Ramón,Spain,Defender,UNKNOWN,,,19,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176488.jpg
+250176477,Francis Onyeka,Germany,Midfielder,,,,17,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176477.jpg
+250176229,Max Schmitt,Germany,Goalkeeper,UNKNOWN,,,18,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176229.jpg
+250176213,Mike Aidoo,Italy,Defender,,,,19,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176213.jpg
+250176212,Thomas Berenbruch,Italy,Midfielder,,,,19,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176212.jpg
+250176188,Mats Seiler,Switzerland,Defender,,,,19,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176188.jpg
+250176181,Jashar Dema,Kosovo,Midfielder,,,,19,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250176181.jpg
+250174995,Matteo Bignetti,Austria,Goalkeeper,,,,20,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174995.jpg
+250174331,Miguel Chaiwa,Zambia,Midfielder,UNKNOWN,,,20,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250174331.jpg
+250173127,Tajon Buchanan,Canada,Forward,WINGER,,,25,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250173127.jpg
+250172534,Vuk Draškić,Serbia,Goalkeeper,,,,17,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250172534.jpg
+250171662,Enric García,Spain,Midfielder,,,,18,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171662.jpg
+250171659,Adam Aznou,Spain,Defender,UNKNOWN,,,18,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171659.jpg
+250171100,Filippo Terracciano,Italy,Defender,,,,21,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250171100.jpg
+250170952,Dennis Seimen,Germany,Goalkeeper,UNKNOWN,,,18,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250170952.jpg
+250170141,Kjell Wätjen,Germany,Midfielder,UNKNOWN,,,18,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250170141.jpg
+250170133,Almugera Kabar,Germany,Defender,UNKNOWN,,,18,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250170133.jpg
+250169918,Leon Grgic,Austria,Forward,,,,18,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169918.jpg
+250169894,Francisco Silva,Portugal,Goalkeeper,,,,18,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169894.jpg
+250169891,Luis Gomes,Portugal,Forward,,,,20,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169891.jpg
+250169577,Áron Yaakobishvili,Hungary,Goalkeeper,,,,18,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169577.jpg
+250169576,Diego Kochen,USA,Goalkeeper,UNKNOWN,,,18,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250169576.jpg
+250168729,Filippo Mane,Italy,Defender,UNKNOWN,,,19,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250168729.jpg
+250168060,Lucas Michal,France,Midfielder,,,,19,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250168060.jpg
+250166787,Martin Mišovič,Slovakia,Forward,,,,20,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250166787.jpg
+250165547,Daniil Khudiakov,Russia,Goalkeeper,UNKNOWN,,,20,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250165547.jpg
+250164989,André Gomes,Portugal,Goalkeeper,UNKNOWN,,,20,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164989.jpg
+250164860,Daniel Rus,Czechia,Forward,,,,18,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164860.jpg
+250164853,Lukáš Penxa,Czechia,Defender,,,,20,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164853.jpg
+250164740,Tommy Setford,Netherlands,Goalkeeper,UNKNOWN,,,18,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164740.jpg
+250164626,Ander Astralaga,Spain,Goalkeeper,UNKNOWN,,,20,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164626.jpg
+250164169,Louis Mouquet,France,Goalkeeper,UNKNOWN,,,20,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164169.jpg
+250164068,Lapo Nava,Italy,Goalkeeper,,,,20,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164068.jpg
+250164054,Kevin Zeroli,Italy,Midfielder,UNKNOWN,,,19,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250164054.jpg
+250163658,Salko Hamzic,Austria,Goalkeeper,,,,18,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163658.jpg
+250163505,Tommaso Del Lungo,Italy,Defender,,,,20,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163505.jpg
+250163224, Abdoulaye Ndiaye,Senegal,Defender,UNKNOWN,,,22,2601306,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250163224.jpg
+250162627,Yann Lienard,France,Goalkeeper,GOALKEEPER,,,21,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250162627.jpg
+250162176,Vanja Vlahović,Serbia,Forward,UNKNOWN,,,20,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250162176.jpg
+250160990,Diego Callai,Italy,Goalkeeper,UNKNOWN,,,20,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250160990.jpg
+250160835,Kiril Fesiun,Ukraine,Goalkeeper,UNKNOWN,,,22,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250160835.jpg
+250154332,Giovanni Daffara,Italy,Goalkeeper,,,,19,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250154332.jpg
+250154301,Sergio Mestre,Spain,Goalkeeper,,,,19,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250154301.jpg
+250153773,Stefan Leković,Serbia,Defender,UNKNOWN,,,20,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153773.jpg
+250153677,Jorne Spileers,Belgium,Defender,UNKNOWN,,,19,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153677.jpg
+250153412,Frans Krätzig,Germany,Defender,UNKNOWN,,,21,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153412.jpg
+250153408,Silas Ostrzinski,Germany,Goalkeeper,GOALKEEPER,,,20,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250153408.jpg
+250150470,Zane Monlouis,England,Defender,,,,21,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250150470.jpg
+250148144,Niek Schiks,Netherlands,Goalkeeper,GOALKEEPER,,,20,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250148144.jpg
+250139387,Arijon Ibrahimovic,Germany,Midfielder,,,,18,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139387.jpg
+250139028,Ivan Guteša,Serbia,Goalkeeper,,,,22,50069,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250139028.jpg
+250138956,Diogo Prioste,Portugal,Midfielder,,,,20,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138956.jpg
+250138950,Diogo Pinto,Portugal,Goalkeeper,UNKNOWN,,,20,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138950.jpg
+250138635,Adrian Bajrami,Albania,Defender,UNKNOWN,,,22,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138635.jpg
+250138286,Adam Hrdina,Slovakia,Goalkeeper,UNKNOWN,,,20,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138286.jpg
+250138239,Joshua Wilson-Esbrand,England,Defender,,,,21,52919,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250138239.jpg
+250137521,Juan Musso,Argentina,Goalkeeper,UNKNOWN,,,30,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250137521.jpg
+250135608,Harvey Davies,England,Goalkeeper,UNKNOWN,,,21,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135608.jpg
+250135499,Antonio Gomis,Spain,Goalkeeper,,,,21,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135499.jpg
+250135497,Aitor Gismera,Spain,Midfielder,UNKNOWN,,,20,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250135497.jpg
+250129928,Bryan Okoh,Switzerland,Defender,,,,21,50030,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129928.jpg
+250129831,Ilias Kostis,Greece,Defender,UNKNOWN,,,21,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250129831.jpg
+250128898,Hugo Siquet,Belgium,Defender,FULL_BACK,,,22,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250128898.jpg
+250127502,Emil Holm,Sweden,Defender,,,,24,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127502.jpg
+250127149,Ameen Al-Dakhil,Belgium,Defender,,,,22,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127149.jpg
+250127130,Jakub Surovčík,Slovakia,Goalkeeper,,,,22,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250127130.jpg
+250124400,Tyler Morton,England,Midfielder,UNKNOWN,,,22,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250124400.jpg
+250123440,Yehor Nazaryna,Ukraine,Midfielder,CENTRAL_MIDFIELDER,,,27,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250123440.jpg
+250119144,Leonidas Stergiou,Switzerland,Defender,,,,22,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250119144.jpg
+250118962,Nathanaël Mbuku,DR Congo,Forward,,,,22,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118962.jpg
+250118787,Maarten Vandevoordt,Belgium,Goalkeeper,GOALKEEPER,,,22,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250118787.jpg
+250117408,Samuel Soares,Portugal,Goalkeeper,GOALKEEPER,,,22,50147,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250117408.jpg
+250116069,Mathias Ross,Denmark,Defender,,,,23,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250116069.jpg
+250113263,Vitězslav Jaroš,Czechia,Goalkeeper,,,,23,7889,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250113263.jpg
+250112488,Rafael Tolói,Italy,Defender,CENTRE_BACK,,,34,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250112488.jpg
+250109859,Vladan Kovačević,Serbia,Goalkeeper,UNKNOWN,,,26,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250109859.jpg
+250109381,Maik Nawrocki,Poland,Defender,,,,23,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250109381.jpg
+250109378,Marcel Lotka,Germany,Goalkeeper,,,,23,52758,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250109378.jpg
+250108031,Irakli Azarov,Georgia,Defender,UNKNOWN,,,22,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250108031.jpg
+250106979,Arnau Tenas,Spain,Goalkeeper,UNKNOWN,,,23,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106979.jpg
+250106880,Viljami Sinisalo,Finland,Goalkeeper,UNKNOWN,,,23,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250106880.jpg
+250105664,Daniel Peretz,Israel,Goalkeeper,GOALKEEPER,,,24,50037,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250105664.jpg
+250104101,Yannik Keitel,Germany,Midfielder,,,,24,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250104101.jpg
+250103498,Martin Trnovský,Slovakia,Goalkeeper,GOALKEEPER,,,24,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250103498.jpg
+250101698,Stephen Welsh,Scotland,Defender,CENTRE_BACK,,,24,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250101698.jpg
+250096761,Josep Martínez,Spain,Goalkeeper,UNKNOWN,,,26,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250096761.jpg
+250088389,Emir Karic,Austria,Midfielder,,,,27,50111,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088389.jpg
+250088122,Jordan Teze,Netherlands,Defender,FULL_BACK,,,25,50023,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088122.jpg
+250088117,Armando Obispo,Netherlands,Defender,CENTRE_BACK,,,25,50062,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250088117.jpg
+250087542,Abel Ruiz,Spain,Forward,STRIKER,,,24,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250087542.jpg
+250086637,Pau López,Spain,Goalkeeper,GOALKEEPER,77.0,189.0,29,2602798,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250086637.jpg
+250082738,Marco Sportiello,Italy,Goalkeeper,GOALKEEPER,,,32,50058,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250082738.jpg
+250082625,Marian Shved,Ukraine,Midfielder,WINGER,,,27,52707,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250082625.jpg
+250081634,Martin Erlić,Croatia,Defender,UNKNOWN,,,26,52969,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250081634.jpg
+250079522,Marcus Edwards,England,Forward,WINGER,,,25,50149,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250079522.jpg
+250074072,Dario Marzino,Switzerland,Goalkeeper,GOALKEEPER,,184.0,28,50031,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250074072.jpg
+250070418,Fabian Bredlow,Germany,Goalkeeper,UNKNOWN,,191.0,29,50107,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250070418.jpg
+250069830,Justin Bijlow,Netherlands,Goalkeeper,GOALKEEPER,,,26,52749,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250069830.jpg
+250067821,Marc-Aurèle Caillard,France,Goalkeeper,UNKNOWN,,191.0,30,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250067821.jpg
+250066521,Nordin Jackers,Belgium,Goalkeeper,GOALKEEPER,72.0,185.0,27,50043,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250066521.jpg
+250065307,Jesús Vallejo,Spain,Defender,CENTRE_BACK,74.0,183.0,27,50051,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250065307.jpg
+250064310,Jurij Medveděv,Czechia,Defender,FULL_BACK,,,28,52797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250064310.jpg
+250061507,Neto,Brazil,Goalkeeper,GOALKEEPER,83.0,191.0,35,52280,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250061507.jpg
+250058260,Lukas Klostermann,Germany,Defender,FULL_BACK,,,28,2603790,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058260.jpg
+250058121,Vojtěch Vorel,Czechia,Goalkeeper,UNKNOWN,,190.0,28,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250058121.jpg
+250056735,Ivan Filipović,Croatia,Goalkeeper,UNKNOWN,,,29,50164,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250056735.jpg
+250042778,Thomas Lemar,France,Midfielder,UNKNOWN,58.0,170.0,28,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250042778.jpg
+250041563,Milan Škriniar,Slovakia,Defender,CENTRE_BACK,80.0,187.0,29,52747,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250041563.jpg
+250040599,Niklas Lomb,Germany,Goalkeeper,GOALKEEPER,84.0,188.0,31,50109,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250040599.jpg
+250022366,David Pavelka,Czechia,Midfielder,DEFENSIVE_MIDFIELDER,74.0,185.0,33,50033,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250022366.jpg
+250017814,Raffaele Di Gennaro,Italy,Goalkeeper,GOALKEEPER,,,31,50138,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250017814.jpg
+250015753,Francesco Rossi,Italy,Goalkeeper,GOALKEEPER,,,33,52816,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250015753.jpg
+250011071,Scott Bain,Scotland,Goalkeeper,GOALKEEPER,,,32,50050,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250011071.jpg
+250000104,Carlo Pinsoglio,Italy,Goalkeeper,UNKNOWN,,,34,50139,https://img.uefa.com/imgml/TP/players/1/2025/324x324/250000104.jpg
+108501,Wojciech Szczęsny,Poland,Goalkeeper,GOALKEEPER,84.0,196.0,34,50080,https://img.uefa.com/imgml/TP/players/1/2025/324x324/108501.jpg
+103827,César Azpilicueta,Spain,Defender,FULL_BACK,75.0,178.0,35,50124,https://img.uefa.com/imgml/TP/players/1/2025/324x324/103827.jpg
+101585,Vito Mannone,Italy,Goalkeeper,UNKNOWN,84.0,192.0,36,75797,https://img.uefa.com/imgml/TP/players/1/2025/324x324/101585.jpg
