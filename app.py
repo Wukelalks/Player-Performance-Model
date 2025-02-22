@@ -1,9 +1,10 @@
-import pandas as pd
 import streamlit as st
-import streamlit.components.v1 as components
+import pandas as pd
 import joblib
 import os
 import random
+import matplotlib.pyplot as plt
+import numpy as np
 
 # Custom CSS for styling
 st.markdown(
@@ -23,17 +24,24 @@ st.markdown(
             text-align: center;
             color: #333333;
         }
+        .player-box {
+            background-color: #ffffff;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 10px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+            font-weight: bold;
+            text-align: center;
+        }
     </style>
     """,
     unsafe_allow_html=True,
 )
 
 # Title of the application
-### CHANGE HERE
 st.markdown("<div class='title'>⚽ Awesome Soccer Project That You Should Rename ⚽</div>", unsafe_allow_html=True)
 
 # Project description
-### CHANGE HERE
 st.markdown("<div class='description'>This awesome project finds the 10 closest players given a subject and calculates the market value. YOU SHOULD ALSO CHANGE THIS</div>", unsafe_allow_html=True)
 
 st.markdown("---")
@@ -44,7 +52,6 @@ positions = ["Forward", "Midfielder", "Defender", "Goalkeeper"]
 selected_position = st.radio("Choose Position:", positions, horizontal=True)
 
 st.success(f"You selected: {selected_position}")
-
 
 st.markdown("---")
 
@@ -99,5 +106,40 @@ with col2:
     st.subheader("Results & Similar Players")
     st.write(f"**Predicted Market Value:** €{market_value}m")
     st.write("**Similar Players:**")
+
+    # Display players in styled boxes
     for player in similar_players:
-        st.write(f"- {player}")
+        st.markdown(
+            f"""
+            <div class='player-box'>
+                {player}
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+# Display attributes comparison using a radial plot
+st.markdown("---")
+st.subheader("Player Attributes Comparison - Radial Plot")
+
+# Prepare data for the radial plot
+comparison_columns = position_features[selected_position]
+comparison_df = df_filtered[df_filtered["player_name"].isin(similar_players)][["player_name"] + comparison_columns]
+input_player_df = pd.DataFrame([{**{"player_name": "Input Player"}, **input_data}])
+comparison_df = pd.concat([input_player_df, comparison_df], ignore_index=True)
+
+# Create radial plot
+fig, ax = plt.subplots(figsize=(7, 7), subplot_kw={'projection': 'polar'})
+angles = np.linspace(0, 2 * np.pi, len(comparison_columns), endpoint=False).tolist()
+angles += angles[:1]  # Close the circle
+
+for i, row in comparison_df.iterrows():
+    values = row[comparison_columns].tolist()
+    values += values[:1]  # Close the circle
+    ax.plot(angles, values, label=row["player_name"], linewidth=2)
+    ax.fill(angles, values, alpha=0.2)
+
+ax.set_xticks(angles[:-1])
+ax.set_xticklabels(comparison_columns)
+ax.legend(loc="upper right", bbox_to_anchor=(1.3, 1.1))
+st.pyplot(fig)
