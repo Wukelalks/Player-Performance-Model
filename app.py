@@ -1,10 +1,12 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import pickle
 import os
 import random
 import matplotlib.pyplot as plt
 import numpy as np
+from Player_Performance_Model import find_similar_players
 
 # Custom CSS for styling
 st.markdown(
@@ -90,7 +92,7 @@ player_data_path = "raw_data/all_players_with_valuations.csv"
 df = pd.read_csv(player_data_path)
 
 # Filter players by position
-df_filtered = df[df["field_position"] == selected_position]
+df_filtered = df[df["field_position"] == selected_position].copy()
 
 # Generate predictions or use random values
 if classification_model and regression_model:

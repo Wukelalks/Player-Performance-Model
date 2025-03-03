@@ -4,11 +4,7 @@ import pickle
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import pairwise_distances
 
-def find_similar_players(player_name=None, player_stats=None,
-                          data_path='raw_data/players_2024_2025_cleaned.csv',
-                          model_path='models/forward_model.pkl',
-                          scaler_path='models/training_scaler.pkl',
-                          df_path='models/attackers_df.pkl'):
+def find_similar_players(player_name=None, player_stats=None):
     """
     Finds the top 10 players similar to a given player based on their stats,
     either by name or by providing the stats manually.
@@ -16,12 +12,12 @@ def find_similar_players(player_name=None, player_stats=None,
 
     try:
         # 1. Load Data and Model
-        df = pd.read_csv(data_path)
-        with open(model_path, 'rb') as f:
+        df = pd.read_csv('raw_data/players_2024_2025_cleaned.csv')
+        with open('models/forward_model.pkl', 'rb') as f:
             model = pickle.load(f)
-        with open(scaler_path, 'rb') as f:
+        with open('models/training_scaler.pkl', 'rb') as f:
             scaler = pickle.load(f)
-        with open(df_path,'rb') as f:
+        with open('models/attackers_df.pkl', 'rb') as f:
             attackers_df = pickle.load(f)
 
         # Check if the player colmn can be defined, if not, exit
@@ -95,7 +91,7 @@ def find_similar_players(player_name=None, player_stats=None,
 
             else:
 
-                distances = pairwise_distances(X_scaled, player_stat_scaled, metric='euclidean')
+                distances = pairwise_distances(X_scaled, player_scaled, metric='euclidean')
                 distances = distances.flatten()
 
             # Get indices of the n smallest distances (the first one is the most similar)
