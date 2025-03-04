@@ -6,7 +6,6 @@ import os
 import random
 import matplotlib.pyplot as plt
 import numpy as np
-from Player_Performance_Model import find_similar_players
 
 # Custom CSS for styling
 st.markdown(
