@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split, GridSearchCV
@@ -9,14 +10,12 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from scipy.spatial.distance import cdist
 
-# Loading data
+# 1. Loading data
 df_all = pd.read_csv('raw_data/players_2024_2025_cleaned.csv')
-
-# Filtering and selecting forward players only
 attacker_pos = ['FW', 'FW,MF', 'MF,FW']
 attackers_df = df_all[df_all['Pos'].isin(attacker_pos)]
 
-# Feature selection
+# 2. Feature selection
 attackers_features = ['Gls', 'G-PK', 'PKatt', 'Ast', 'xG', 'npxG', 'Sh/90', 'SoT/90', 'G/SoT', 'Off',]
 attackers_features_renamed = ['Goals', 'Penalty Kicks Attempted', 'Assists', 'Expected Goals','Non-Penalty Expected Goals','Shots Per 90','Shots on Target Per 90','Goals Per Shots on Target','Offsides','Offsides']
 
@@ -40,6 +39,19 @@ X = attackers_df[attackers_features].copy()
 # Data scaling
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
+
+# Dumping with pickle the X_scaled and scaler for later use
+filename = 'X_scaled.pkl'
+pickle.dump(X_scaled, open(filename, 'wb'))
+filename = 'scaler.pkl'
+pickle.dump(scaler, open(filename, 'wb'))
+
+#loading with pickle, test if that worked
+pickle_in = open('X_scaled.pkl', 'rb')
+X_scaled_with_pickle = pickle.load(pickle_in)
+pickle_in = open('scaler.pkl', 'rb')
+scaler_with_pickle = pickle.load(pickle_in)
+
 
 # Ask the user how they want to search for similar players
 search_method = input("Choose search method: (1) Enter player name, or (2) Enter stats manually: ")
@@ -77,10 +89,12 @@ else:
 # Convert player stats to numpy array and scale it
 player_array = np.array([player_stats[feature] for feature in attackers_features]).reshape(1, -1)
 
-player_scaled = scaler.transform(player_array) # Scale with the *fitted* scaler
+#player_scaled = scaler.transform(player_array) # Scale with the *fitted* scaler
+player_scaled = scaler_with_pickle.transform(player_array) # Scale with the loaded scaler
 
 # Calculate distances from the input player
-distances = pairwise_distances(X_scaled, player_scaled, metric='euclidean')
+#distances = pairwise_distances(X_scaled, player_scaled, metric='euclidean')
+distances = pairwise_distances(X_scaled_with_pickle, player_scaled, metric='euclidean')
 distances = distances.flatten()
 
 # Find common index by merging attacker_df and X, while checking that it exist,
