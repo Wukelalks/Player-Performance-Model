@@ -10,71 +10,139 @@ from sklearn.ensemble import RandomForestRegressor
 st.markdown(
     """
     <style>
+        /* Overall Page Background - Sleek Modern Color Palette */
         .main {
-            background-color: #d9dce1;
+            background-color: ##192a56; 
+            font-family: 'Arial', sans-serif; /* Modern font */
         }
+
+        /* Title Styling */
         .title {
-            font-size: 36px;
-            font-weight: bold;
-            color: #2E8B57;
+            font-size: 42px; /* Slightly larger title */
+            font-weight: 800; /* Black font weight */
+            color: #F5F1E3; /* Off-white text for contrast */
             text-align: center;
+            margin-bottom: 20px; /* Spacing below title */
+            text-transform: uppercase; /* Capitalize all letters */
+            letter-spacing: 3px; /* Spacing between each letter */
+            text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.35); /* Added soft shadow */
         }
-        .description {
-            font-size: 18px;
-            text-align: center;
-            color: #333333;
+
+        /* Subheaders and Text Headings */ 
+        h1, h2, h3, h4, h5 {
+            color: #F5F1E3; /* Same color as title */
+            font-family: 'Arial', sans-serif; /* Same font as title */
+            font-size: 26px; /* Match other headers' size */
         }
-        .player-box {
-            background-color: #ffffff;
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 10px;
-            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-            font-weight: bold;
-            text-align: center;
+
+        /* Links */
+        a {
+            color: #F5F1E3 !important; /* Match links to off-white color */
+            text-decoration: none; /* Remove underline for links */
         }
-        .metric-value {
-            font-size: 24px;
-            font-weight: bold;
-            text-align: center;
+
+        /* Text Shadow for Headers and Text */
+        h1, h2, h3, h4, h5, p, div {
+            text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.35); /* Soft shadow */
         }
-        .value-metric {
-            font-size: 20px;
-            font-weight: bold;
-            color: #1e3d58;
-        }
-        .similar-player {
-            background-color: #f0f2f6;
-            padding: 12px;
-            margin: 8px 0;
+
+        /* Custom Message Styling (For Success Box) */
+        .custom-success {
+            background-color: #e1b12c !important;  /* Match the 'You selected' box background color */
+            color: white !important;  /* Text color */
             border-radius: 8px;
-            border-left: 4px solid #2E8B57;
-            box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
-        }
-        .player-name {
-            font-weight: bold;
+            padding: 10px;
+            margin: 10px 0;
             font-size: 16px;
-        }
-        .player-team {
-            color: #555;
-            font-style: italic;
-        }
-        .market-value {
             font-weight: bold;
-            color: #2E8B57;
-            float: right;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for better aesthetic */
+        }
+
+        /* Styled Player Cards */
+        .player-box {
+            background-color: #e1b12c; /* Updated player box background color */
+            color: white; /* Player names in white */
+            padding: 15px;
+            margin: 10px 0; /* More separation between cards */
+            border-radius: 15px; /* Rounded corners */
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* Professional box shadow */
+            font-weight: bold;
+            text-align: center;
+            font-size: 18px;
+            transition: transform 0.3s, box-shadow 0.3s; /* Animation for hover */
+        }
+
+        /* Hover Effect on Player Cards */
+        .player-box:hover {
+            transform: translateY(-5px); /* Slight hover lift */
+            box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4); /* Enhanced shadow on hover */
+        }
+
+        /* Add Custom Button Styles */
+        .streamlit-button {
+            background-color: #F5F1E3 !important;
+            color: #1B9AAA !important;
+            font-size: 16px !important;
+            font-weight: bold !important;
+            text-transform: uppercase;
+            border-radius: 30px !important; /* Rounded buttons */
+            padding: 10px 20px !important; /* Modern spacing */
+            transition: 0.4s ease-in-out all; /* Smooth animation */
+            border: 2px solid #F5F1E3 !important;
+        }
+        
+        /* On hover - reverse color scheme for buttons */
+        .streamlit-button:hover {
+            background-color: #1B9AAA !important;
+            color: #F5F1E3 !important;
+            border: 2px solid #F5F1E3 !important;
+        }
+
+        /* Footer Styling - Minimal Information */
+        .footer {
+            position: fixed; /* Sticks the footer at the bottom */
+            bottom: 0;
+            width: 100%; /* Full width of page */
+            background-color: #113F67; /* Dark blue for contrast */
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            font-size: 13px;
+            font-weight: normal;
+        }
+        
+            /* Highlight Box Styling with Desired Background Color */
+        .highlight-box {
+            background-color: #e1b12c; /* Your Desired Color */
+            color: white; /* Text on Highlight Box */
+            padding: 15px;
+            margin: 10px 0; /* Adds spacing between sections */
+            border-radius: 8px; /* Rounded corners */
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for better aesthetic */
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        /* Hover Effect for Highlight Boxes */
+        .highlight-box:hover {
+            filter: brightness(1.05);  /* Slight increase in brightness */
+            transition: all 0.3s ease-in-out;
         }
     </style>
     """,
-    unsafe_allow_html=True,
+     unsafe_allow_html=True,
 )
 
 # Title of the application
-st.markdown("<div class='title'>⚽ Football Player Analyzer & Comparison Tool ⚽</div>", unsafe_allow_html=True)
+st.markdown("<div class='title'>⚽ PlayerLens ⚽</div>", unsafe_allow_html=True)
 
 # Project description
-st.markdown("<div class='description'>Find similar players based on performance metrics and compare their market values</div>", unsafe_allow_html=True)
-
+st.markdown(
+    "<div style='text-align: center; font-size: 18px; color: #F5F1E3; line-height: 1.6;'>"
+    "Discover Similar Players Based on Performance, Position and Market Value."
+    "</div>",
+    unsafe_allow_html=True,
+)
 st.markdown("---")
 
 # Load player data
@@ -151,7 +219,7 @@ def format_market_value(value_in_millions):
         return f"€{value_in_thousands}K"
 
 # Select position to analyze
-st.subheader("Select the Position You Want to Analyze")
+st.subheader("Select the Position You Want to Analyse:")
 positions = ["Forward", "Midfielder", "Defender", "Goalkeeper"]
 selected_position = st.radio("Choose Position:", positions, horizontal=True)
 
@@ -222,7 +290,7 @@ display_player_name = selected_player.title()
 
 # Player info container with better styling
 st.markdown(f"""
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; margin-bottom: 20px; border-left: 5px solid #2E8B57;">
+<div style="background-color: #e1b12c; padding: 15px; border-radius: 10px; margin-bottom: 20px; border-left: 5px solid #2E8B57;">
     <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">{display_player_name}</div>
     <div style="display: flex; flex-wrap: wrap;">
         <div style="margin-right: 30px;">
@@ -239,7 +307,7 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # Display player metrics in a more organized grid with better styling
-st.markdown("<div style='margin-top: 20px; margin-bottom: 15px;'><strong>Performance Metrics</strong></div>", unsafe_allow_html=True)
+st.markdown("<div style='margin-top: 20px; margin-bottom: 15px; font-size: 26px;'><strong>Performance Metrics</strong></div>", unsafe_allow_html=True)
 
 # Determine the number of columns (2 for small screens, more for larger ones)
 num_cols = 2
@@ -262,9 +330,9 @@ for i, feature in enumerate(position_feats):
 
             # Use a custom styled metric
             st.markdown(f"""
-            <div style="background-color: white; padding: 10px 15px; margin-bottom: 10px; border-radius: 5px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-                <div style="color: #555; font-size: 14px;">{label}</div>
-                <div style="font-size: 20px; font-weight: bold; color: #1e3d58;">{formatted_value}</div>
+            <div style="background-color: #e1b12c; padding: 10px 15px; margin-bottom: 10px; border-radius: 5px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                <div style="color: white; font-size: 20px;">{label}</div>
+                <div style="font-size: 22px; font-weight: bold; color: white;">{formatted_value}</div>
             </div>
             """, unsafe_allow_html=True)
 
@@ -478,14 +546,14 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.markdown(f"""
-    <div style="background-color: #f1f3f6; border-radius: 10px; padding: 15px; height: 100%;">
+    <div style="background-color: #e1b12c; border-radius: 10px; padding: 15px; height: 100%;">
         <div style="text-align: center; margin-bottom: 15px;">
-            <span style="font-size: 18px; font-weight: bold; color: #1e3d58;">
+            <span style="font-size: 18px; font-weight: bold; color: white;">
                 Model Prediction
             </span>
         </div>
         <div style="text-align: center; background-color: white; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <div style="font-size: 28px; font-weight: bold; color: #2E8B57;">
+            <div style="font-size: 32px; font-weight: bold; color: black;">
                 {formatted_model_value}
             </div>
             <div style="font-size: 14px; color: #666; margin-top: 10px;">
@@ -497,14 +565,14 @@ with col1:
 
 with col2:
     st.markdown(f"""
-    <div style="background-color: #f1f3f6; border-radius: 10px; padding: 15px; height: 100%;">
+    <div style="background-color: #e1b12c; border-radius: 10px; padding: 15px; height: 100%;">
         <div style="text-align: center; margin-bottom: 15px;">
-            <span style="font-size: 18px; font-weight: bold; color: #1e3d58;">
+            <span style="font-size: 18px; font-weight: bold; color: white;">
                 Similar Players Average
             </span>
         </div>
         <div style="text-align: center; background-color: white; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <div style="font-size: 28px; font-weight: bold; color: #4682B4;">
+            <div style="font-size: 32px; font-weight: bold; color: black;">
                 {formatted_avg_value}
             </div>
             <div style="font-size: 14px; color: #666; margin-top: 10px;">
@@ -555,11 +623,11 @@ for row in rows:
         with cols[i]:
             st.markdown(
                 f"""
-                <div style="background-color: white; padding: 15px; border-radius: 8px; margin-bottom: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); border-top: 3px solid #4682B4;">
-                    <div style="font-size: 16px; font-weight: bold; margin-bottom: 5px;">{player_name_title}</div>
-                    <div style="color: #666; font-size: 14px; margin-bottom: 5px;">{player["team"]} - {player["league"]}</div>
-                    <div style="color: #666; font-size: 14px; margin-bottom: 10px;">Age: {player["age"]}</div>
-                    <div style="font-weight: bold; color: #2E8B57; font-size: 15px;">{formatted_value}</div>
+                <div style="background-color: #e1b12c; padding: 15px; border-radius: 8px; margin-bottom: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); border-top: 3px solid #4682B4;">
+                    <div style="font-size: 20px; font-weight: bold; margin-bottom: 5px;">{player_name_title}</div>
+                    <div style="color: white; font-size: 18px; margin-bottom: 5px;">{player["team"]} - {player["league"]}</div>
+                    <div style="color: white; font-size: 18px; margin-bottom: 10px;">Age: {player["age"]}</div>
+                    <div style="font-weight: bold; color: white; font-size: 20px;">{formatted_value}</div>
                 </div>
                 """,
                 unsafe_allow_html=True)
